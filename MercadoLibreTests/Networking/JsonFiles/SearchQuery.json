@@ -1,0 +1,5404 @@
+{
+    "site_id": "MCO",
+    "query": "quino",
+    "paging": {
+        "total": 118,
+        "primary_results": 94,
+        "offset": 0,
+        "limit": 50
+    },
+    "results": [
+        {
+            "id": "MCO579495796",
+            "site_id": "MCO",
+            "title": "Toda Mafalda Original ",
+            "seller": {
+                "id": 184678203,
+                "permalink": null,
+                "registration_date": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": null
+            },
+            "price": 228000,
+            "prices": {},
+            "sale_price": null,
+            "currency_id": "COP",
+            "available_quantity": 50,
+            "sold_quantity": 3,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_special",
+            "stop_time": "2040-09-27T03:38:12.000Z",
+            "condition": "new",
+            "permalink": "https://articulo.mercadolibre.com.co/MCO-579495796-toda-mafalda-original-_JM",
+            "thumbnail": "http://mco-s1-p.mlstatic.com/736448-MCO43642410635_102020-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 36,
+                "amount": 6333.33,
+                "rate": 0,
+                "currency_id": "COP"
+            },
+            "address": {
+                "state_id": "CO-DC",
+                "state_name": "Bogotá D.C.",
+                "city_id": "TUNPQ1NBTjkyOTU1",
+                "city_name": "Santa Fe"
+            },
+            "shipping": {
+                "free_shipping": true,
+                "mode": "me2",
+                "tags": [
+                    "self_service_in",
+                    "mandatory_free_shipping"
+                ],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "CO",
+                    "name": "Colombia"
+                },
+                "state": {
+                    "id": "CO-DC",
+                    "name": "Bogotá D.C."
+                },
+                "city": {
+                    "id": "TUNPQ1NBTjkyOTU1",
+                    "name": "Santa Fe"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "id": "ITEM_CONDITION",
+                    "name": "Condición del ítem",
+                    "values": [
+                        {
+                            "name": "Nuevo",
+                            "struct": null,
+                            "source": 4954751883138633,
+                            "id": "2230284"
+                        }
+                    ],
+                    "attribute_group_id": "OTHERS",
+                    "value_id": "2230284",
+                    "value_name": "Nuevo",
+                    "value_struct": null,
+                    "attribute_group_name": "Otros",
+                    "source": 4954751883138633
+                }
+            ],
+            "original_price": null,
+            "category_id": "MCO1196",
+            "official_store_id": null,
+            "domain_id": "MCO-BOOKS",
+            "catalog_product_id": null,
+            "tags": [
+                "good_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MCO586014781",
+            "site_id": "MCO",
+            "title": "Libro: Toda Mafalda /quino",
+            "seller": {
+                "id": 650212917,
+                "permalink": null,
+                "registration_date": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": null
+            },
+            "price": 40000,
+            "prices": {},
+            "sale_price": null,
+            "currency_id": "COP",
+            "available_quantity": 1,
+            "sold_quantity": 4,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2040-09-27T04:00:00.000Z",
+            "condition": "new",
+            "permalink": "https://articulo.mercadolibre.com.co/MCO-586014781-libro-toda-mafalda-quino-_JM",
+            "thumbnail": "http://mco-s2-p.mlstatic.com/997837-MCO43653147757_102020-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 3333.33,
+                "rate": 0,
+                "currency_id": "COP"
+            },
+            "address": {
+                "state_id": "CO-DC",
+                "state_name": "Bogotá D.C.",
+                "city_id": "TUNPQ1NBTjkyOTU1",
+                "city_name": "Santa Fe"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "CO",
+                    "name": "Colombia"
+                },
+                "state": {
+                    "id": "CO-DC",
+                    "name": "Bogotá D.C."
+                },
+                "city": {
+                    "id": "TUNPQ1NBTjkyOTU1",
+                    "name": "Santa Fe"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "attribute_group_name": "Otros",
+                    "source": 4954751883138633,
+                    "value_struct": null,
+                    "name": "Condición del ítem",
+                    "value_id": "2230284",
+                    "value_name": "Nuevo",
+                    "values": [
+                        {
+                            "id": "2230284",
+                            "name": "Nuevo",
+                            "struct": null,
+                            "source": 4954751883138633
+                        }
+                    ],
+                    "attribute_group_id": "OTHERS",
+                    "id": "ITEM_CONDITION"
+                }
+            ],
+            "differential_pricing": {
+                "id": 33602181
+            },
+            "original_price": null,
+            "category_id": "MCO1196",
+            "official_store_id": null,
+            "domain_id": "MCO-BOOKS",
+            "catalog_product_id": null,
+            "tags": [
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MCO585183670",
+            "site_id": "MCO",
+            "title": "Mafalda 2 / Quino",
+            "seller": {
+                "id": 438128163,
+                "permalink": null,
+                "registration_date": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": null
+            },
+            "price": 31000,
+            "prices": {},
+            "sale_price": null,
+            "currency_id": "COP",
+            "available_quantity": 1,
+            "sold_quantity": 2,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2040-09-21T04:00:00.000Z",
+            "condition": "new",
+            "permalink": "https://articulo.mercadolibre.com.co/MCO-585183670-mafalda-2-quino-_JM",
+            "thumbnail": "http://mco-s1-p.mlstatic.com/654129-MCO43614960577_092020-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 2583.33,
+                "rate": 0,
+                "currency_id": "COP"
+            },
+            "address": {
+                "state_id": "CO-DC",
+                "state_name": "Bogotá D.C.",
+                "city_id": "TUNPQ1BVRTg0NTU0",
+                "city_name": "Puente Aranda"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [
+                    "self_service_in"
+                ],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "CO",
+                    "name": "Colombia"
+                },
+                "state": {
+                    "id": "CO-DC",
+                    "name": "Bogotá D.C."
+                },
+                "city": {
+                    "id": "TUNPQ1BVRTg0NTU0",
+                    "name": "Puente Aranda"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "id": "ITEM_CONDITION",
+                    "name": "Condición del ítem",
+                    "value_id": "2230284",
+                    "value_name": "Nuevo",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "name": "Nuevo",
+                            "struct": null,
+                            "source": 4954751883138633,
+                            "id": "2230284"
+                        }
+                    ],
+                    "source": 4954751883138633,
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros"
+                }
+            ],
+            "differential_pricing": {
+                "id": 33602181
+            },
+            "original_price": null,
+            "category_id": "MCO1196",
+            "official_store_id": null,
+            "domain_id": "MCO-BOOKS",
+            "catalog_product_id": null,
+            "tags": [
+                "good_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MCO586226185",
+            "site_id": "MCO",
+            "title": "Mafalda Colección Completa / 10 Tomos / Quino",
+            "seller": {
+                "id": 438128163,
+                "permalink": null,
+                "registration_date": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": null
+            },
+            "price": 300000,
+            "prices": {},
+            "sale_price": null,
+            "currency_id": "COP",
+            "available_quantity": 1,
+            "sold_quantity": 1,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2040-09-27T04:00:00.000Z",
+            "condition": "new",
+            "permalink": "https://articulo.mercadolibre.com.co/MCO-586226185-mafalda-coleccion-completa-10-tomos-quino-_JM",
+            "thumbnail": "http://mco-s2-p.mlstatic.com/725461-MCO43658672641_102020-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 25000,
+                "rate": 0,
+                "currency_id": "COP"
+            },
+            "address": {
+                "state_id": "CO-DC",
+                "state_name": "Bogotá D.C.",
+                "city_id": "TUNPQ1BVRTg0NTU0",
+                "city_name": "Puente Aranda"
+            },
+            "shipping": {
+                "free_shipping": true,
+                "mode": "me2",
+                "tags": [
+                    "self_service_in",
+                    "mandatory_free_shipping"
+                ],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "CO",
+                    "name": "Colombia"
+                },
+                "state": {
+                    "id": "CO-DC",
+                    "name": "Bogotá D.C."
+                },
+                "city": {
+                    "id": "TUNPQ1BVRTg0NTU0",
+                    "name": "Puente Aranda"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "values": [
+                        {
+                            "id": "2230284",
+                            "name": "Nuevo",
+                            "struct": null,
+                            "source": 6808261514773724
+                        }
+                    ],
+                    "id": "ITEM_CONDITION",
+                    "value_struct": null,
+                    "value_name": "Nuevo",
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros",
+                    "source": 6808261514773724,
+                    "name": "Condición del ítem",
+                    "value_id": "2230284"
+                }
+            ],
+            "differential_pricing": {
+                "id": 33602181
+            },
+            "original_price": null,
+            "category_id": "MCO1196",
+            "official_store_id": null,
+            "domain_id": "MCO-BOOKS",
+            "catalog_product_id": null,
+            "tags": [
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MCO585559220",
+            "site_id": "MCO",
+            "title": "Cuanta Bondad! / Quino",
+            "seller": {
+                "id": 438128163,
+                "permalink": null,
+                "registration_date": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": null
+            },
+            "price": 46000,
+            "prices": {},
+            "sale_price": null,
+            "currency_id": "COP",
+            "available_quantity": 1,
+            "sold_quantity": 1,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2040-09-25T04:00:00.000Z",
+            "condition": "new",
+            "permalink": "https://articulo.mercadolibre.com.co/MCO-585559220-cuanta-bondad-quino-_JM",
+            "thumbnail": "http://mco-s1-p.mlstatic.com/675969-MCO43638924040_092020-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 3833.33,
+                "rate": 0,
+                "currency_id": "COP"
+            },
+            "address": {
+                "state_id": "CO-DC",
+                "state_name": "Bogotá D.C.",
+                "city_id": "TUNPQ1BVRTg0NTU0",
+                "city_name": "Puente Aranda"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [
+                    "self_service_in"
+                ],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "CO",
+                    "name": "Colombia"
+                },
+                "state": {
+                    "id": "CO-DC",
+                    "name": "Bogotá D.C."
+                },
+                "city": {
+                    "id": "TUNPQ1BVRTg0NTU0",
+                    "name": "Puente Aranda"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "name": "Condición del ítem",
+                    "values": [
+                        {
+                            "id": "2230284",
+                            "name": "Nuevo",
+                            "struct": null,
+                            "source": 4954751883138633
+                        }
+                    ],
+                    "attribute_group_id": "OTHERS",
+                    "source": 4954751883138633,
+                    "id": "ITEM_CONDITION",
+                    "value_id": "2230284",
+                    "value_name": "Nuevo",
+                    "value_struct": null,
+                    "attribute_group_name": "Otros"
+                }
+            ],
+            "differential_pricing": {
+                "id": 33602181
+            },
+            "original_price": null,
+            "category_id": "MCO1196",
+            "official_store_id": null,
+            "domain_id": "MCO-BOOKS",
+            "catalog_product_id": null,
+            "tags": [
+                "poor_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MCO567404015",
+            "site_id": "MCO",
+            "title": "Libro Toda Mafalda .quino",
+            "seller": {
+                "id": 444088432,
+                "permalink": null,
+                "registration_date": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": null
+            },
+            "price": 280000,
+            "prices": {},
+            "sale_price": null,
+            "currency_id": "COP",
+            "available_quantity": 1,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2040-06-15T04:00:00.000Z",
+            "condition": "new",
+            "permalink": "https://articulo.mercadolibre.com.co/MCO-567404015-libro-toda-mafalda-quino-_JM",
+            "thumbnail": "http://mco-s2-p.mlstatic.com/722995-MCO42285329712_062020-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 23333.33,
+                "rate": 0,
+                "currency_id": "COP"
+            },
+            "address": {
+                "state_id": "CO-DC",
+                "state_name": "Bogotá D.C.",
+                "city_id": "TUNPQ1NBTjkyOTU1",
+                "city_name": "Santa Fe"
+            },
+            "shipping": {
+                "free_shipping": true,
+                "mode": "me2",
+                "tags": [
+                    "mandatory_free_shipping"
+                ],
+                "logistic_type": "cross_docking",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "CO",
+                    "name": "Colombia"
+                },
+                "state": {
+                    "id": "CO-DC",
+                    "name": "Bogotá D.C."
+                },
+                "city": {
+                    "id": "TUNPQ1NBTjkyOTU1",
+                    "name": "Santa Fe"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "attribute_group_id": "OTHERS",
+                    "source": 7092,
+                    "id": "ITEM_CONDITION",
+                    "value_id": "2230284",
+                    "value_name": "Nuevo",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "2230284",
+                            "name": "Nuevo",
+                            "struct": null,
+                            "source": 7092
+                        }
+                    ],
+                    "attribute_group_name": "Otros",
+                    "name": "Condición del ítem"
+                }
+            ],
+            "differential_pricing": {
+                "id": 33602181
+            },
+            "original_price": null,
+            "category_id": "MCO1196",
+            "official_store_id": null,
+            "domain_id": "MCO-BOOKS",
+            "catalog_product_id": null,
+            "tags": [
+                "poor_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MCO500888287",
+            "site_id": "MCO",
+            "title": "Toda Mafalda - Nuevo - Libro Original",
+            "seller": {
+                "id": 41202381,
+                "permalink": null,
+                "registration_date": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": null
+            },
+            "price": 230000,
+            "prices": {},
+            "sale_price": null,
+            "currency_id": "COP",
+            "available_quantity": 1,
+            "sold_quantity": 5,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2040-09-27T14:56:29.000Z",
+            "condition": "new",
+            "permalink": "https://articulo.mercadolibre.com.co/MCO-500888287-toda-mafalda-nuevo-libro-original-_JM",
+            "thumbnail": "http://mco-s2-p.mlstatic.com/809070-MCO25915760301_082017-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 19166.67,
+                "rate": 0,
+                "currency_id": "COP"
+            },
+            "address": {
+                "state_id": "CO-DC",
+                "state_name": "Bogotá D.C.",
+                "city_id": "TUNPQ1NBTjkyOTU1",
+                "city_name": "Santa Fe"
+            },
+            "shipping": {
+                "free_shipping": true,
+                "mode": "me2",
+                "tags": [
+                    "self_service_in",
+                    "mandatory_free_shipping"
+                ],
+                "logistic_type": "cross_docking",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "CO",
+                    "name": "Colombia"
+                },
+                "state": {
+                    "id": "CO-DC",
+                    "name": "Bogotá D.C."
+                },
+                "city": {
+                    "id": "TUNPQ1NBTjkyOTU1",
+                    "name": "Santa Fe"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "value_name": "Nuevo",
+                    "attribute_group_id": "OTHERS",
+                    "source": 1,
+                    "id": "ITEM_CONDITION",
+                    "name": "Condición del ítem",
+                    "value_id": "2230284",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "struct": null,
+                            "source": 1,
+                            "id": "2230284",
+                            "name": "Nuevo"
+                        }
+                    ],
+                    "attribute_group_name": "Otros"
+                }
+            ],
+            "differential_pricing": {
+                "id": 33602181
+            },
+            "original_price": null,
+            "category_id": "MCO1196",
+            "official_store_id": null,
+            "domain_id": "MCO-BOOKS",
+            "catalog_product_id": null,
+            "tags": [
+                "dragged_bids_and_visits",
+                "poor_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MCO568762262",
+            "site_id": "MCO",
+            "title": "Revista: Mafalda De Quino Primeros 10 Ejemplares En Pdf",
+            "seller": {
+                "id": 228746049,
+                "permalink": null,
+                "registration_date": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": null
+            },
+            "price": 4000,
+            "prices": {},
+            "sale_price": null,
+            "currency_id": "COP",
+            "available_quantity": 1,
+            "sold_quantity": 3,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_special",
+            "stop_time": "2040-06-26T04:00:00.000Z",
+            "condition": "new",
+            "permalink": "https://articulo.mercadolibre.com.co/MCO-568762262-revista-mafalda-de-quino-primeros-10-ejemplares-en-pdf-_JM",
+            "thumbnail": "http://mco-s1-p.mlstatic.com/673974-MCO43490071859_092020-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 36,
+                "amount": 111.11,
+                "rate": 0,
+                "currency_id": "COP"
+            },
+            "address": {
+                "state_id": "CO-DC",
+                "state_name": "Bogotá D.C.",
+                "city_id": "TUNPQ1RFVTY1OTk1",
+                "city_name": "Teusaquillo"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "not_specified",
+                "tags": [],
+                "logistic_type": "not_specified",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "CO",
+                    "name": "Colombia"
+                },
+                "state": {
+                    "id": "CO-DC",
+                    "name": "Bogotá D.C."
+                },
+                "city": {
+                    "id": "TUNPQ1RFVTY1OTk1",
+                    "name": "Teusaquillo"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "name": "Marca",
+                    "value_id": "-1",
+                    "attribute_group_name": "Otros",
+                    "id": "BRAND",
+                    "value_name": null,
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "-1",
+                            "name": null,
+                            "struct": null,
+                            "source": 3045741222775799
+                        }
+                    ],
+                    "attribute_group_id": "OTHERS",
+                    "source": 3045741222775799
+                },
+                {
+                    "attribute_group_id": "OTHERS",
+                    "source": 3045741222775799,
+                    "id": "ITEM_CONDITION",
+                    "value_id": "2230284",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "2230284",
+                            "name": "Nuevo",
+                            "struct": null,
+                            "source": 3045741222775799
+                        }
+                    ],
+                    "attribute_group_name": "Otros",
+                    "name": "Condición del ítem",
+                    "value_name": "Nuevo"
+                },
+                {
+                    "id": "MODEL",
+                    "name": "Modelo",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "-1",
+                            "name": null,
+                            "struct": null,
+                            "source": 3045741222775799
+                        }
+                    ],
+                    "value_id": "-1",
+                    "value_name": null,
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros",
+                    "source": 3045741222775799
+                }
+            ],
+            "original_price": null,
+            "category_id": "MCO3530",
+            "official_store_id": null,
+            "domain_id": "MCO-UNCLASSIFIED_PRODUCTS",
+            "catalog_product_id": null,
+            "tags": [
+                "good_quality_picture",
+                "good_quality_thumbnail",
+                "immediate_payment"
+            ]
+        },
+        {
+            "id": "MCO579449184",
+            "site_id": "MCO",
+            "title": "A Mi No Me Grite De Quino Ed Xxl ",
+            "seller": {
+                "id": 577428668,
+                "permalink": null,
+                "registration_date": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": null
+            },
+            "price": 35000,
+            "prices": {},
+            "sale_price": null,
+            "currency_id": "COP",
+            "available_quantity": 1,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_special",
+            "stop_time": "2040-08-22T04:00:00.000Z",
+            "condition": "used",
+            "permalink": "https://articulo.mercadolibre.com.co/MCO-579449184-a-mi-no-me-grite-de-quino-ed-xxl-_JM",
+            "thumbnail": "http://mco-s1-p.mlstatic.com/629171-MCO43282331359_082020-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 36,
+                "amount": 972.22,
+                "rate": 0,
+                "currency_id": "COP"
+            },
+            "address": {
+                "state_id": "CO-DC",
+                "state_name": "Bogotá D.C.",
+                "city_id": "TUNPQ0VORzkzMTUz",
+                "city_name": "Engativá"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "CO",
+                    "name": "Colombia"
+                },
+                "state": {
+                    "id": "CO-DC",
+                    "name": "Bogotá D.C."
+                },
+                "city": {
+                    "id": "TUNPQ0VORzkzMTUz",
+                    "name": "Engativá"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "id": "ITEM_CONDITION",
+                    "name": "Condición del ítem",
+                    "values": [
+                        {
+                            "id": "2230581",
+                            "name": "Usado",
+                            "struct": null,
+                            "source": 7092
+                        }
+                    ],
+                    "source": 7092,
+                    "value_id": "2230581",
+                    "value_name": "Usado",
+                    "value_struct": null,
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros"
+                }
+            ],
+            "original_price": null,
+            "category_id": "MCO3043",
+            "official_store_id": null,
+            "domain_id": "MCO-COMICS",
+            "catalog_product_id": null,
+            "tags": [
+                "good_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MCO579672949",
+            "site_id": "MCO",
+            "title": "Gente En Su Sitio De Quino Ed Lumen ",
+            "seller": {
+                "id": 577428668,
+                "permalink": null,
+                "registration_date": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": null
+            },
+            "price": 45000,
+            "prices": {},
+            "sale_price": null,
+            "currency_id": "COP",
+            "available_quantity": 1,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_special",
+            "stop_time": "2040-08-23T04:00:00.000Z",
+            "condition": "used",
+            "permalink": "https://articulo.mercadolibre.com.co/MCO-579672949-gente-en-su-sitio-de-quino-ed-lumen-_JM",
+            "thumbnail": "http://mco-s2-p.mlstatic.com/941906-MCO43298407050_082020-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 36,
+                "amount": 1250,
+                "rate": 0,
+                "currency_id": "COP"
+            },
+            "address": {
+                "state_id": "CO-DC",
+                "state_name": "Bogotá D.C.",
+                "city_id": "TUNPQ0VORzkzMTUz",
+                "city_name": "Engativá"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "CO",
+                    "name": "Colombia"
+                },
+                "state": {
+                    "id": "CO-DC",
+                    "name": "Bogotá D.C."
+                },
+                "city": {
+                    "id": "TUNPQ0VORzkzMTUz",
+                    "name": "Engativá"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "struct": null,
+                            "source": 7092,
+                            "id": "2230581",
+                            "name": "Usado"
+                        }
+                    ],
+                    "attribute_group_name": "Otros",
+                    "source": 7092,
+                    "id": "ITEM_CONDITION",
+                    "name": "Condición del ítem",
+                    "value_id": "2230581",
+                    "value_name": "Usado",
+                    "attribute_group_id": "OTHERS"
+                }
+            ],
+            "original_price": null,
+            "category_id": "MCO3043",
+            "official_store_id": null,
+            "domain_id": "MCO-COMICS",
+            "catalog_product_id": null,
+            "tags": [
+                "good_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MCO586131310",
+            "site_id": "MCO",
+            "title": "Colección Mafalda Autor Quino Tomos 3-6-8-9-11-12 ",
+            "seller": {
+                "id": 409892046,
+                "permalink": null,
+                "registration_date": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": null
+            },
+            "price": 60000,
+            "prices": {},
+            "sale_price": null,
+            "currency_id": "COP",
+            "available_quantity": 1,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_special",
+            "stop_time": "2040-09-27T04:00:00.000Z",
+            "condition": "used",
+            "permalink": "https://articulo.mercadolibre.com.co/MCO-586131310-coleccion-mafalda-autor-quino-tomos-3-6-8-9-11-12-_JM",
+            "thumbnail": "http://mco-s1-p.mlstatic.com/644539-MCO43656118252_102020-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 36,
+                "amount": 1666.67,
+                "rate": 0,
+                "currency_id": "COP"
+            },
+            "address": {
+                "state_id": "CO-DC",
+                "state_name": "Bogotá D.C.",
+                "city_id": "TUNPQ1NBTjkyOTU1",
+                "city_name": "Santa Fe"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "CO",
+                    "name": "Colombia"
+                },
+                "state": {
+                    "id": "CO-DC",
+                    "name": "Bogotá D.C."
+                },
+                "city": {
+                    "id": "TUNPQ1NBTjkyOTU1",
+                    "name": "Santa Fe"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "value_id": "2230581",
+                    "values": [
+                        {
+                            "id": "2230581",
+                            "name": "Usado",
+                            "struct": null,
+                            "source": 1505
+                        }
+                    ],
+                    "source": 1505,
+                    "id": "ITEM_CONDITION",
+                    "name": "Condición del ítem",
+                    "value_name": "Usado",
+                    "value_struct": null,
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros"
+                }
+            ],
+            "original_price": null,
+            "category_id": "MCO3043",
+            "official_store_id": null,
+            "domain_id": "MCO-COMICS",
+            "catalog_product_id": null,
+            "tags": [
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MCO570173395",
+            "site_id": "MCO",
+            "title": "Mafalda - Quino - Cómic - Humor - Oveja Negra - Historieta",
+            "seller": {
+                "id": 157197540,
+                "permalink": null,
+                "registration_date": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": null
+            },
+            "price": 35000,
+            "prices": {},
+            "sale_price": null,
+            "currency_id": "COP",
+            "available_quantity": 1,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_special",
+            "stop_time": "2040-07-05T04:00:00.000Z",
+            "condition": "used",
+            "permalink": "https://articulo.mercadolibre.com.co/MCO-570173395-mafalda-quino-comic-humor-oveja-negra-historieta-_JM",
+            "thumbnail": "http://mco-s2-p.mlstatic.com/960308-MCO42595407170_072020-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 36,
+                "amount": 972.22,
+                "rate": 0,
+                "currency_id": "COP"
+            },
+            "address": {
+                "state_id": "CO-DC",
+                "state_name": "Bogotá D.C.",
+                "city_id": "TUNPQ1NBTjkyOTU1",
+                "city_name": "Santa Fe"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [],
+                "logistic_type": "cross_docking",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "CO",
+                    "name": "Colombia"
+                },
+                "state": {
+                    "id": "CO-DC",
+                    "name": "Bogotá D.C."
+                },
+                "city": {
+                    "id": "TUNPQ1NBTjkyOTU1",
+                    "name": "Santa Fe"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "id": "ITEM_CONDITION",
+                    "value_id": "2230581",
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros",
+                    "source": 7092,
+                    "name": "Condición del ítem",
+                    "value_name": "Usado",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "source": 7092,
+                            "id": "2230581",
+                            "name": "Usado",
+                            "struct": null
+                        }
+                    ]
+                }
+            ],
+            "original_price": null,
+            "category_id": "MCO1196",
+            "official_store_id": null,
+            "domain_id": "MCO-BOOKS",
+            "catalog_product_id": null,
+            "tags": [
+                "good_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MCO551427275",
+            "site_id": "MCO",
+            "title": "LibroEsto Es Todo ...quino",
+            "seller": {
+                "id": 444088432,
+                "permalink": null,
+                "registration_date": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": null
+            },
+            "price": 180000,
+            "prices": {},
+            "sale_price": null,
+            "currency_id": "COP",
+            "available_quantity": 1,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2040-01-29T04:00:00.000Z",
+            "condition": "used",
+            "permalink": "https://articulo.mercadolibre.com.co/MCO-551427275-libroesto-es-todo-quino-_JM",
+            "thumbnail": "http://mco-s2-p.mlstatic.com/721215-MCO40648885400_022020-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 15000,
+                "rate": 0,
+                "currency_id": "COP"
+            },
+            "address": {
+                "state_id": "CO-DC",
+                "state_name": "Bogotá D.C.",
+                "city_id": "TUNPQ1NBTjkyOTU1",
+                "city_name": "Santa Fe"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [],
+                "logistic_type": "cross_docking",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "CO",
+                    "name": "Colombia"
+                },
+                "state": {
+                    "id": "CO-DC",
+                    "name": "Bogotá D.C."
+                },
+                "city": {
+                    "id": "TUNPQ1NBTjkyOTU1",
+                    "name": "Santa Fe"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "name": "Condición del ítem",
+                    "value_id": "2230581",
+                    "value_name": "Usado",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "struct": null,
+                            "source": 1505,
+                            "id": "2230581",
+                            "name": "Usado"
+                        }
+                    ],
+                    "source": 1505,
+                    "id": "ITEM_CONDITION",
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros"
+                }
+            ],
+            "differential_pricing": {
+                "id": 33602181
+            },
+            "original_price": null,
+            "category_id": "MCO1196",
+            "official_store_id": null,
+            "domain_id": "MCO-BOOKS",
+            "catalog_product_id": null,
+            "tags": [
+                "poor_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MCO578046351",
+            "site_id": "MCO",
+            "title": "Mafalda 6",
+            "seller": {
+                "id": 556020964,
+                "permalink": null,
+                "registration_date": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": null
+            },
+            "price": 16000,
+            "prices": {},
+            "sale_price": null,
+            "currency_id": "COP",
+            "available_quantity": 1,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2040-08-14T04:00:00.000Z",
+            "condition": "used",
+            "permalink": "https://articulo.mercadolibre.com.co/MCO-578046351-mafalda-6-_JM",
+            "thumbnail": "http://mco-s2-p.mlstatic.com/661511-MCO43211193774_082020-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 1333.33,
+                "rate": 0,
+                "currency_id": "COP"
+            },
+            "address": {
+                "state_id": "CO-DC",
+                "state_name": "Bogotá D.C.",
+                "city_id": "TUNPQ0NBTjU1NTU5",
+                "city_name": "La Candelaria"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [],
+                "logistic_type": "cross_docking",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "CO",
+                    "name": "Colombia"
+                },
+                "state": {
+                    "id": "CO-DC",
+                    "name": "Bogotá D.C."
+                },
+                "city": {
+                    "id": "TUNPQ0NBTjU1NTU5",
+                    "name": "La Candelaria"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "2230581",
+                            "name": "Usado",
+                            "struct": null,
+                            "source": 6808261514773724
+                        }
+                    ],
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros",
+                    "source": 6808261514773724,
+                    "id": "ITEM_CONDITION",
+                    "name": "Condición del ítem",
+                    "value_id": "2230581",
+                    "value_name": "Usado"
+                }
+            ],
+            "differential_pricing": {
+                "id": 33602181
+            },
+            "original_price": null,
+            "category_id": "MCO1196",
+            "official_store_id": null,
+            "domain_id": "MCO-BOOKS",
+            "catalog_product_id": null,
+            "tags": [
+                "poor_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MCO578046453",
+            "site_id": "MCO",
+            "title": "Mafalda 12",
+            "seller": {
+                "id": 556020964,
+                "permalink": null,
+                "registration_date": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": null
+            },
+            "price": 16000,
+            "prices": {},
+            "sale_price": null,
+            "currency_id": "COP",
+            "available_quantity": 1,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2040-08-14T04:00:00.000Z",
+            "condition": "used",
+            "permalink": "https://articulo.mercadolibre.com.co/MCO-578046453-mafalda-12-_JM",
+            "thumbnail": "http://mco-s2-p.mlstatic.com/838357-MCO43211209615_082020-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 1333.33,
+                "rate": 0,
+                "currency_id": "COP"
+            },
+            "address": {
+                "state_id": "CO-DC",
+                "state_name": "Bogotá D.C.",
+                "city_id": "TUNPQ0NBTjU1NTU5",
+                "city_name": "La Candelaria"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [],
+                "logistic_type": "cross_docking",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "CO",
+                    "name": "Colombia"
+                },
+                "state": {
+                    "id": "CO-DC",
+                    "name": "Bogotá D.C."
+                },
+                "city": {
+                    "id": "TUNPQ0NBTjU1NTU5",
+                    "name": "La Candelaria"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "id": "ITEM_CONDITION",
+                    "value_name": "Usado",
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros",
+                    "name": "Condición del ítem",
+                    "value_id": "2230581",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "name": "Usado",
+                            "struct": null,
+                            "source": 2860837171021627,
+                            "id": "2230581"
+                        }
+                    ],
+                    "source": 2860837171021627
+                }
+            ],
+            "differential_pricing": {
+                "id": 33602181
+            },
+            "original_price": null,
+            "category_id": "MCO1196",
+            "official_store_id": null,
+            "domain_id": "MCO-BOOKS",
+            "catalog_product_id": null,
+            "tags": [
+                "poor_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MCO505656031",
+            "site_id": "MCO",
+            "title": "Quino A La Buena Mesa  Ediciones  La Flor ",
+            "seller": {
+                "id": 79300371,
+                "permalink": null,
+                "registration_date": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": null
+            },
+            "price": 39960,
+            "prices": {},
+            "sale_price": null,
+            "currency_id": "COP",
+            "available_quantity": 1,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2039-02-27T04:00:00.000Z",
+            "condition": "used",
+            "permalink": "https://articulo.mercadolibre.com.co/MCO-505656031-quino-a-la-buena-mesa-ediciones-la-flor-_JM",
+            "thumbnail": "http://mco-s2-p.mlstatic.com/626395-MCO29556557573_032019-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 3330,
+                "rate": 0,
+                "currency_id": "COP"
+            },
+            "address": {
+                "state_id": "CO-DC",
+                "state_name": "Bogotá D.C.",
+                "city_id": "TUNPQ01BUjU5NzU1",
+                "city_name": "Martires"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [],
+                "logistic_type": "cross_docking",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "CO",
+                    "name": "Colombia"
+                },
+                "state": {
+                    "id": "CO-DC",
+                    "name": "Bogotá D.C."
+                },
+                "city": {
+                    "id": "TUNPQ01BUjU5NzU1",
+                    "name": "Martires"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "id": "ITEM_CONDITION",
+                    "value_id": "2230581",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "2230581",
+                            "name": "Usado",
+                            "struct": null,
+                            "source": 1
+                        }
+                    ],
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros",
+                    "source": 1,
+                    "name": "Condición del ítem",
+                    "value_name": "Usado"
+                }
+            ],
+            "differential_pricing": {
+                "id": 33602181
+            },
+            "original_price": null,
+            "category_id": "MCO1196",
+            "official_store_id": null,
+            "domain_id": "MCO-BOOKS",
+            "catalog_product_id": null,
+            "tags": [
+                "good_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MCO582750899",
+            "site_id": "MCO",
+            "title": "Toda Mafalda Quino, Edición Pequeña ",
+            "seller": {
+                "id": 577428668,
+                "permalink": null,
+                "registration_date": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": null
+            },
+            "price": 60000,
+            "prices": {},
+            "sale_price": null,
+            "currency_id": "COP",
+            "available_quantity": 1,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_special",
+            "stop_time": "2040-09-10T04:00:00.000Z",
+            "condition": "used",
+            "permalink": "https://articulo.mercadolibre.com.co/MCO-582750899-toda-mafalda-quino-edicion-pequena-_JM",
+            "thumbnail": "http://mco-s2-p.mlstatic.com/900819-MCO43474533541_092020-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 36,
+                "amount": 1666.67,
+                "rate": 0,
+                "currency_id": "COP"
+            },
+            "address": {
+                "state_id": "CO-DC",
+                "state_name": "Bogotá D.C.",
+                "city_id": "TUNPQ0VORzkzMTUz",
+                "city_name": "Engativá"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "CO",
+                    "name": "Colombia"
+                },
+                "state": {
+                    "id": "CO-DC",
+                    "name": "Bogotá D.C."
+                },
+                "city": {
+                    "id": "TUNPQ0VORzkzMTUz",
+                    "name": "Engativá"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "value_name": "Usado",
+                    "attribute_group_name": "Otros",
+                    "name": "Condición del ítem",
+                    "value_id": "2230581",
+                    "values": [
+                        {
+                            "id": "2230581",
+                            "name": "Usado",
+                            "struct": null,
+                            "source": 1505
+                        }
+                    ],
+                    "attribute_group_id": "OTHERS",
+                    "source": 1505,
+                    "id": "ITEM_CONDITION",
+                    "value_struct": null
+                }
+            ],
+            "original_price": null,
+            "category_id": "MCO1196",
+            "official_store_id": null,
+            "domain_id": "MCO-BOOKS",
+            "catalog_product_id": null,
+            "tags": [
+                "good_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MCO514655017",
+            "site_id": "MCO",
+            "title": "¡bienvenido Al Cole! - Quino",
+            "seller": {
+                "id": 317232815,
+                "permalink": null,
+                "registration_date": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": null
+            },
+            "price": 48000,
+            "prices": null,
+            "sale_price": null,
+            "currency_id": "COP",
+            "available_quantity": 1,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_special",
+            "stop_time": "2039-05-18T04:00:00.000Z",
+            "condition": "new",
+            "permalink": "https://articulo.mercadolibre.com.co/MCO-514655017-bienvenido-al-cole-quino-_JM",
+            "thumbnail": "http://mco-s2-p.mlstatic.com/986181-MCO43410102268_092020-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 36,
+                "amount": 1333.33,
+                "rate": 0,
+                "currency_id": "COP"
+            },
+            "address": {
+                "state_id": "CO-DC",
+                "state_name": "Bogotá D.C.",
+                "city_id": "TUNPQ0NIQTk2OTI1",
+                "city_name": "Chapinero"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "CO",
+                    "name": "Colombia"
+                },
+                "state": {
+                    "id": "CO-DC",
+                    "name": "Bogotá D.C."
+                },
+                "city": {
+                    "id": "TUNPQ0NIQTk2OTI1",
+                    "name": "Chapinero"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "values": [
+                        {
+                            "struct": null,
+                            "source": 1,
+                            "id": "2230284",
+                            "name": "Nuevo"
+                        }
+                    ],
+                    "attribute_group_id": "OTHERS",
+                    "id": "ITEM_CONDITION",
+                    "name": "Condición del ítem",
+                    "value_id": "2230284",
+                    "value_name": "Nuevo",
+                    "value_struct": null,
+                    "attribute_group_name": "Otros",
+                    "source": 1
+                }
+            ],
+            "original_price": null,
+            "category_id": "MCO1196",
+            "official_store_id": null,
+            "domain_id": "MCO-BOOKS",
+            "catalog_product_id": "MCO7687848",
+            "tags": [
+                "poor_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MCO585183734",
+            "site_id": "MCO",
+            "title": "Mafalda 3 / Quino",
+            "seller": {
+                "id": 438128163,
+                "permalink": null,
+                "registration_date": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": null
+            },
+            "price": 31000,
+            "prices": {},
+            "sale_price": null,
+            "currency_id": "COP",
+            "available_quantity": 1,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2040-09-21T04:00:00.000Z",
+            "condition": "new",
+            "permalink": "https://articulo.mercadolibre.com.co/MCO-585183734-mafalda-3-quino-_JM",
+            "thumbnail": "http://mco-s1-p.mlstatic.com/681938-MCO43615437452_092020-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 2583.33,
+                "rate": 0,
+                "currency_id": "COP"
+            },
+            "address": {
+                "state_id": "CO-DC",
+                "state_name": "Bogotá D.C.",
+                "city_id": "TUNPQ1BVRTg0NTU0",
+                "city_name": "Puente Aranda"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [
+                    "self_service_in"
+                ],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "CO",
+                    "name": "Colombia"
+                },
+                "state": {
+                    "id": "CO-DC",
+                    "name": "Bogotá D.C."
+                },
+                "city": {
+                    "id": "TUNPQ1BVRTg0NTU0",
+                    "name": "Puente Aranda"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "id": "ITEM_CONDITION",
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros",
+                    "values": [
+                        {
+                            "id": "2230284",
+                            "name": "Nuevo",
+                            "struct": null,
+                            "source": 4954751883138633
+                        }
+                    ],
+                    "source": 4954751883138633,
+                    "name": "Condición del ítem",
+                    "value_id": "2230284",
+                    "value_name": "Nuevo",
+                    "value_struct": null
+                }
+            ],
+            "differential_pricing": {
+                "id": 33602181
+            },
+            "original_price": null,
+            "category_id": "MCO1196",
+            "official_store_id": null,
+            "domain_id": "MCO-BOOKS",
+            "catalog_product_id": null,
+            "tags": [
+                "good_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MCO585183737",
+            "site_id": "MCO",
+            "title": "Mafalda 7 / Quino",
+            "seller": {
+                "id": 438128163,
+                "permalink": null,
+                "registration_date": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": null
+            },
+            "price": 31000,
+            "prices": {},
+            "sale_price": null,
+            "currency_id": "COP",
+            "available_quantity": 1,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2040-09-21T04:00:00.000Z",
+            "condition": "new",
+            "permalink": "https://articulo.mercadolibre.com.co/MCO-585183737-mafalda-7-quino-_JM",
+            "thumbnail": "http://mco-s2-p.mlstatic.com/815455-MCO43622383452_092020-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 2583.33,
+                "rate": 0,
+                "currency_id": "COP"
+            },
+            "address": {
+                "state_id": "CO-DC",
+                "state_name": "Bogotá D.C.",
+                "city_id": "TUNPQ1BVRTg0NTU0",
+                "city_name": "Puente Aranda"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [
+                    "self_service_in"
+                ],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "CO",
+                    "name": "Colombia"
+                },
+                "state": {
+                    "id": "CO-DC",
+                    "name": "Bogotá D.C."
+                },
+                "city": {
+                    "id": "TUNPQ1BVRTg0NTU0",
+                    "name": "Puente Aranda"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "id": "ITEM_CONDITION",
+                    "value_name": "Nuevo",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "2230284",
+                            "name": "Nuevo",
+                            "struct": null,
+                            "source": 4954751883138633
+                        }
+                    ],
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros",
+                    "source": 4954751883138633,
+                    "name": "Condición del ítem",
+                    "value_id": "2230284"
+                }
+            ],
+            "differential_pricing": {
+                "id": 33602181
+            },
+            "original_price": null,
+            "category_id": "MCO1196",
+            "official_store_id": null,
+            "domain_id": "MCO-BOOKS",
+            "catalog_product_id": null,
+            "tags": [
+                "good_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MCO585559231",
+            "site_id": "MCO",
+            "title": "Qué Presente Impresentable! / Quino",
+            "seller": {
+                "id": 438128163,
+                "permalink": null,
+                "registration_date": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": null
+            },
+            "price": 48000,
+            "prices": {},
+            "sale_price": null,
+            "currency_id": "COP",
+            "available_quantity": 1,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2040-09-25T04:00:00.000Z",
+            "condition": "new",
+            "permalink": "https://articulo.mercadolibre.com.co/MCO-585559231-que-presente-impresentable-quino-_JM",
+            "thumbnail": "http://mco-s2-p.mlstatic.com/755636-MCO43638279998_092020-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 4000,
+                "rate": 0,
+                "currency_id": "COP"
+            },
+            "address": {
+                "state_id": "CO-DC",
+                "state_name": "Bogotá D.C.",
+                "city_id": "TUNPQ1BVRTg0NTU0",
+                "city_name": "Puente Aranda"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [
+                    "self_service_in"
+                ],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "CO",
+                    "name": "Colombia"
+                },
+                "state": {
+                    "id": "CO-DC",
+                    "name": "Bogotá D.C."
+                },
+                "city": {
+                    "id": "TUNPQ1BVRTg0NTU0",
+                    "name": "Puente Aranda"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "value_name": "Nuevo",
+                    "attribute_group_id": "OTHERS",
+                    "source": 4954751883138633,
+                    "id": "ITEM_CONDITION",
+                    "value_id": "2230284",
+                    "values": [
+                        {
+                            "source": 4954751883138633,
+                            "id": "2230284",
+                            "name": "Nuevo",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_name": "Otros",
+                    "name": "Condición del ítem",
+                    "value_struct": null
+                }
+            ],
+            "differential_pricing": {
+                "id": 33602181
+            },
+            "original_price": null,
+            "category_id": "MCO1196",
+            "official_store_id": null,
+            "domain_id": "MCO-BOOKS",
+            "catalog_product_id": null,
+            "tags": [
+                "good_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MCO575097342",
+            "site_id": "MCO",
+            "title": "Esto No Es Todo De Quino Ed De La Flor",
+            "seller": {
+                "id": 577428668,
+                "permalink": null,
+                "registration_date": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": null
+            },
+            "price": 130000,
+            "prices": {},
+            "sale_price": null,
+            "currency_id": "COP",
+            "available_quantity": 1,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_special",
+            "stop_time": "2040-07-31T04:00:00.000Z",
+            "condition": "used",
+            "permalink": "https://articulo.mercadolibre.com.co/MCO-575097342-esto-no-es-todo-de-quino-ed-de-la-flor-_JM",
+            "thumbnail": "http://mco-s1-p.mlstatic.com/901849-MCO43041044642_082020-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 36,
+                "amount": 3611.11,
+                "rate": 0,
+                "currency_id": "COP"
+            },
+            "address": {
+                "state_id": "CO-DC",
+                "state_name": "Bogotá D.C.",
+                "city_id": "TUNPQ0VORzkzMTUz",
+                "city_name": "Engativá"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "CO",
+                    "name": "Colombia"
+                },
+                "state": {
+                    "id": "CO-DC",
+                    "name": "Bogotá D.C."
+                },
+                "city": {
+                    "id": "TUNPQ0VORzkzMTUz",
+                    "name": "Engativá"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "value_id": "2230581",
+                    "value_name": "Usado",
+                    "value_struct": null,
+                    "attribute_group_id": "OTHERS",
+                    "source": 1505,
+                    "id": "ITEM_CONDITION",
+                    "name": "Condición del ítem",
+                    "values": [
+                        {
+                            "id": "2230581",
+                            "name": "Usado",
+                            "struct": null,
+                            "source": 1505
+                        }
+                    ],
+                    "attribute_group_name": "Otros"
+                }
+            ],
+            "original_price": null,
+            "category_id": "MCO1196",
+            "official_store_id": null,
+            "domain_id": "MCO-BOOKS",
+            "catalog_product_id": null,
+            "tags": [
+                "good_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MCO585183756",
+            "site_id": "MCO",
+            "title": "Mafalda Todas Las Tiras / Quino",
+            "seller": {
+                "id": 438128163,
+                "permalink": null,
+                "registration_date": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": null
+            },
+            "price": 189000,
+            "prices": {},
+            "sale_price": null,
+            "currency_id": "COP",
+            "available_quantity": 1,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2040-09-21T04:00:00.000Z",
+            "condition": "new",
+            "permalink": "https://articulo.mercadolibre.com.co/MCO-585183756-mafalda-todas-las-tiras-quino-_JM",
+            "thumbnail": "http://mco-s1-p.mlstatic.com/834818-MCO43658566961_102020-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 15750,
+                "rate": 0,
+                "currency_id": "COP"
+            },
+            "address": {
+                "state_id": "CO-DC",
+                "state_name": "Bogotá D.C.",
+                "city_id": "TUNPQ1BVRTg0NTU0",
+                "city_name": "Puente Aranda"
+            },
+            "shipping": {
+                "free_shipping": true,
+                "mode": "me2",
+                "tags": [
+                    "self_service_in",
+                    "mandatory_free_shipping"
+                ],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "CO",
+                    "name": "Colombia"
+                },
+                "state": {
+                    "id": "CO-DC",
+                    "name": "Bogotá D.C."
+                },
+                "city": {
+                    "id": "TUNPQ1BVRTg0NTU0",
+                    "name": "Puente Aranda"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "id": "ITEM_CONDITION",
+                    "values": [
+                        {
+                            "id": "2230284",
+                            "name": "Nuevo",
+                            "struct": null,
+                            "source": 4954751883138633
+                        }
+                    ],
+                    "attribute_group_name": "Otros",
+                    "name": "Condición del ítem",
+                    "value_id": "2230284",
+                    "value_name": "Nuevo",
+                    "value_struct": null,
+                    "attribute_group_id": "OTHERS",
+                    "source": 4954751883138633
+                }
+            ],
+            "differential_pricing": {
+                "id": 33602181
+            },
+            "original_price": null,
+            "category_id": "MCO1196",
+            "official_store_id": null,
+            "domain_id": "MCO-BOOKS",
+            "catalog_product_id": "MCO7624801",
+            "tags": [
+                "poor_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MCO585183662",
+            "site_id": "MCO",
+            "title": "Mafalda 1 / Quino",
+            "seller": {
+                "id": 438128163,
+                "permalink": null,
+                "registration_date": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": null
+            },
+            "price": 31000,
+            "prices": {},
+            "sale_price": null,
+            "currency_id": "COP",
+            "available_quantity": 1,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2040-09-21T04:00:00.000Z",
+            "condition": "new",
+            "permalink": "https://articulo.mercadolibre.com.co/MCO-585183662-mafalda-1-quino-_JM",
+            "thumbnail": "http://mco-s1-p.mlstatic.com/891012-MCO43597875838_092020-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 2583.33,
+                "rate": 0,
+                "currency_id": "COP"
+            },
+            "address": {
+                "state_id": "CO-DC",
+                "state_name": "Bogotá D.C.",
+                "city_id": "TUNPQ1BVRTg0NTU0",
+                "city_name": "Puente Aranda"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [
+                    "self_service_in"
+                ],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "CO",
+                    "name": "Colombia"
+                },
+                "state": {
+                    "id": "CO-DC",
+                    "name": "Bogotá D.C."
+                },
+                "city": {
+                    "id": "TUNPQ1BVRTg0NTU0",
+                    "name": "Puente Aranda"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "value_name": "Nuevo",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "2230284",
+                            "name": "Nuevo",
+                            "struct": null,
+                            "source": 4954751883138633
+                        }
+                    ],
+                    "attribute_group_name": "Otros",
+                    "name": "Condición del ítem",
+                    "value_id": "2230284",
+                    "source": 4954751883138633,
+                    "id": "ITEM_CONDITION",
+                    "attribute_group_id": "OTHERS"
+                }
+            ],
+            "differential_pricing": {
+                "id": 33602181
+            },
+            "original_price": null,
+            "category_id": "MCO1196",
+            "official_store_id": null,
+            "domain_id": "MCO-BOOKS",
+            "catalog_product_id": null,
+            "tags": [
+                "good_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MCO585664152",
+            "site_id": "MCO",
+            "title": "Toda Mafalda De Quino Ed La Flor Pasta Blanda",
+            "seller": {
+                "id": 577428668,
+                "permalink": null,
+                "registration_date": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": null
+            },
+            "price": 60000,
+            "prices": {},
+            "sale_price": null,
+            "currency_id": "COP",
+            "available_quantity": 1,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_special",
+            "stop_time": "2040-09-26T04:00:00.000Z",
+            "condition": "used",
+            "permalink": "https://articulo.mercadolibre.com.co/MCO-585664152-toda-mafalda-de-quino-ed-la-flor-pasta-blanda-_JM",
+            "thumbnail": "http://mco-s1-p.mlstatic.com/942153-MCO43645275568_102020-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 36,
+                "amount": 1666.67,
+                "rate": 0,
+                "currency_id": "COP"
+            },
+            "address": {
+                "state_id": "CO-DC",
+                "state_name": "Bogotá D.C.",
+                "city_id": "TUNPQ0VORzkzMTUz",
+                "city_name": "Engativá"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "CO",
+                    "name": "Colombia"
+                },
+                "state": {
+                    "id": "CO-DC",
+                    "name": "Bogotá D.C."
+                },
+                "city": {
+                    "id": "TUNPQ0VORzkzMTUz",
+                    "name": "Engativá"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "id": "ITEM_CONDITION",
+                    "name": "Condición del ítem",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "2230581",
+                            "name": "Usado",
+                            "struct": null,
+                            "source": 7092
+                        }
+                    ],
+                    "source": 7092,
+                    "value_id": "2230581",
+                    "value_name": "Usado",
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros"
+                }
+            ],
+            "original_price": null,
+            "category_id": "MCO1196",
+            "official_store_id": null,
+            "domain_id": "MCO-BOOKS",
+            "catalog_product_id": null,
+            "tags": [
+                "good_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MCO585183667",
+            "site_id": "MCO",
+            "title": "10 Años Con Mafalda / Quino",
+            "seller": {
+                "id": 438128163,
+                "permalink": null,
+                "registration_date": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": null
+            },
+            "price": 79000,
+            "prices": {},
+            "sale_price": null,
+            "currency_id": "COP",
+            "available_quantity": 1,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2040-09-21T04:00:00.000Z",
+            "condition": "new",
+            "permalink": "https://articulo.mercadolibre.com.co/MCO-585183667-10-anos-con-mafalda-quino-_JM",
+            "thumbnail": "http://mco-s2-p.mlstatic.com/856407-MCO43597913498_092020-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 6583.33,
+                "rate": 0,
+                "currency_id": "COP"
+            },
+            "address": {
+                "state_id": "CO-DC",
+                "state_name": "Bogotá D.C.",
+                "city_id": "TUNPQ1BVRTg0NTU0",
+                "city_name": "Puente Aranda"
+            },
+            "shipping": {
+                "free_shipping": true,
+                "mode": "me2",
+                "tags": [
+                    "self_service_in",
+                    "mandatory_free_shipping"
+                ],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "CO",
+                    "name": "Colombia"
+                },
+                "state": {
+                    "id": "CO-DC",
+                    "name": "Bogotá D.C."
+                },
+                "city": {
+                    "id": "TUNPQ1BVRTg0NTU0",
+                    "name": "Puente Aranda"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "value_id": "2230284",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "2230284",
+                            "name": "Nuevo",
+                            "struct": null,
+                            "source": 4954751883138633
+                        }
+                    ],
+                    "attribute_group_id": "OTHERS",
+                    "id": "ITEM_CONDITION",
+                    "name": "Condición del ítem",
+                    "value_name": "Nuevo",
+                    "attribute_group_name": "Otros",
+                    "source": 4954751883138633
+                }
+            ],
+            "differential_pricing": {
+                "id": 33602181
+            },
+            "original_price": null,
+            "category_id": "MCO1196",
+            "official_store_id": null,
+            "domain_id": "MCO-BOOKS",
+            "catalog_product_id": null,
+            "tags": [
+                "good_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MCO514655499",
+            "site_id": "MCO",
+            "title": "Mafalda 3 - Quino",
+            "seller": {
+                "id": 317232815,
+                "permalink": null,
+                "registration_date": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": null
+            },
+            "price": 31000,
+            "prices": {},
+            "sale_price": null,
+            "currency_id": "COP",
+            "available_quantity": 1,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_special",
+            "stop_time": "2039-05-18T04:00:00.000Z",
+            "condition": "new",
+            "permalink": "https://articulo.mercadolibre.com.co/MCO-514655499-mafalda-3-quino-_JM",
+            "thumbnail": "http://mco-s2-p.mlstatic.com/723055-MCO43655998354_102020-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 36,
+                "amount": 861.11,
+                "rate": 0,
+                "currency_id": "COP"
+            },
+            "address": {
+                "state_id": "CO-DC",
+                "state_name": "Bogotá D.C.",
+                "city_id": "TUNPQ0NIQTk2OTI1",
+                "city_name": "Chapinero"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "CO",
+                    "name": "Colombia"
+                },
+                "state": {
+                    "id": "CO-DC",
+                    "name": "Bogotá D.C."
+                },
+                "city": {
+                    "id": "TUNPQ0NIQTk2OTI1",
+                    "name": "Chapinero"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "source": 1,
+                    "value_id": "2230284",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "name": "Nuevo",
+                            "struct": null,
+                            "source": 1,
+                            "id": "2230284"
+                        }
+                    ],
+                    "attribute_group_id": "OTHERS",
+                    "id": "ITEM_CONDITION",
+                    "name": "Condición del ítem",
+                    "value_name": "Nuevo",
+                    "attribute_group_name": "Otros"
+                }
+            ],
+            "original_price": null,
+            "category_id": "MCO1196",
+            "official_store_id": null,
+            "domain_id": "MCO-BOOKS",
+            "catalog_product_id": null,
+            "tags": [
+                "poor_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MCO578720630",
+            "site_id": "MCO",
+            "title": "Libro Mafalda Lo Mejor Los Mas Pequeños Del Mundo",
+            "seller": {
+                "id": 203878723,
+                "permalink": null,
+                "registration_date": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": null
+            },
+            "price": 55000,
+            "prices": {},
+            "sale_price": null,
+            "currency_id": "COP",
+            "available_quantity": 1,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2040-09-01T02:28:55.000Z",
+            "condition": "new",
+            "permalink": "https://articulo.mercadolibre.com.co/MCO-578720630-libro-mafalda-lo-mejor-los-mas-pequenos-del-mundo-_JM",
+            "thumbnail": "http://mco-s1-p.mlstatic.com/716833-MCO40810461733_022020-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 4583.33,
+                "rate": 0,
+                "currency_id": "COP"
+            },
+            "address": {
+                "state_id": "CO-ANT",
+                "state_name": "Antioquia",
+                "city_id": "TUNPQ0VOVjU5YjYx",
+                "city_name": "Envigado"
+            },
+            "shipping": {
+                "free_shipping": true,
+                "mode": "me2",
+                "tags": [],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "CO",
+                    "name": "Colombia"
+                },
+                "state": {
+                    "id": "CO-ANT",
+                    "name": "Antioquia"
+                },
+                "city": {
+                    "id": "TUNPQ0VOVjU5YjYx",
+                    "name": "Envigado"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "name": "Condición del ítem",
+                    "values": [
+                        {
+                            "struct": null,
+                            "source": 1505,
+                            "id": "2230284",
+                            "name": "Nuevo"
+                        }
+                    ],
+                    "source": 1505,
+                    "id": "ITEM_CONDITION",
+                    "value_id": "2230284",
+                    "value_name": "Nuevo",
+                    "value_struct": null,
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros"
+                }
+            ],
+            "differential_pricing": {
+                "id": 33602181
+            },
+            "original_price": null,
+            "category_id": "MCO1196",
+            "official_store_id": null,
+            "domain_id": "MCO-BOOKS",
+            "catalog_product_id": null,
+            "tags": [
+                "good_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MCO585183700",
+            "site_id": "MCO",
+            "title": "Mafalda 10 / Quino",
+            "seller": {
+                "id": 438128163,
+                "permalink": null,
+                "registration_date": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": null
+            },
+            "price": 31000,
+            "prices": {},
+            "sale_price": null,
+            "currency_id": "COP",
+            "available_quantity": 1,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2040-09-21T04:00:00.000Z",
+            "condition": "new",
+            "permalink": "https://articulo.mercadolibre.com.co/MCO-585183700-mafalda-10-quino-_JM",
+            "thumbnail": "http://mco-s1-p.mlstatic.com/803544-MCO43621808908_092020-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 2583.33,
+                "rate": 0,
+                "currency_id": "COP"
+            },
+            "address": {
+                "state_id": "CO-DC",
+                "state_name": "Bogotá D.C.",
+                "city_id": "TUNPQ1BVRTg0NTU0",
+                "city_name": "Puente Aranda"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [
+                    "self_service_in"
+                ],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "CO",
+                    "name": "Colombia"
+                },
+                "state": {
+                    "id": "CO-DC",
+                    "name": "Bogotá D.C."
+                },
+                "city": {
+                    "id": "TUNPQ1BVRTg0NTU0",
+                    "name": "Puente Aranda"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "values": [
+                        {
+                            "source": 4954751883138633,
+                            "id": "2230284",
+                            "name": "Nuevo",
+                            "struct": null
+                        }
+                    ],
+                    "name": "Condición del ítem",
+                    "value_name": "Nuevo",
+                    "value_struct": null,
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros",
+                    "source": 4954751883138633,
+                    "id": "ITEM_CONDITION",
+                    "value_id": "2230284"
+                }
+            ],
+            "differential_pricing": {
+                "id": 33602181
+            },
+            "original_price": null,
+            "category_id": "MCO1196",
+            "official_store_id": null,
+            "domain_id": "MCO-BOOKS",
+            "catalog_product_id": null,
+            "tags": [
+                "poor_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MCO558651132",
+            "site_id": "MCO",
+            "title": "Acondicionador Absolut Repair Gold Quino - g a $415",
+            "seller": {
+                "id": 268747088,
+                "permalink": null,
+                "registration_date": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": null
+            },
+            "price": 83050,
+            "prices": {},
+            "sale_price": null,
+            "currency_id": "COP",
+            "available_quantity": 1,
+            "sold_quantity": 1,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_special",
+            "stop_time": "2040-04-08T04:00:00.000Z",
+            "condition": "new",
+            "permalink": "https://articulo.mercadolibre.com.co/MCO-558651132-acondicionador-absolut-repair-gold-quinoa-protein-200-ml-_JM",
+            "thumbnail": "http://mco-s1-p.mlstatic.com/875259-MCO41425694464_042020-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 36,
+                "amount": 2306.94,
+                "rate": 0,
+                "currency_id": "COP"
+            },
+            "address": {
+                "state_id": "CO-ANT",
+                "state_name": "Antioquia",
+                "city_id": "TUNPQ01FRGRjNjc4",
+                "city_name": "Medellín"
+            },
+            "shipping": {
+                "free_shipping": true,
+                "mode": "me2",
+                "tags": [
+                    "mandatory_free_shipping"
+                ],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "CO",
+                    "name": "Colombia"
+                },
+                "state": {
+                    "id": "CO-ANT",
+                    "name": "Antioquia"
+                },
+                "city": {
+                    "id": "TUNPQ01FRGRjNjc4",
+                    "name": "Medellín"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "values": [
+                        {
+                            "struct": null,
+                            "source": 2860837171021627,
+                            "id": "1220699",
+                            "name": "L'Oréal Paris"
+                        }
+                    ],
+                    "attribute_group_name": "Otros",
+                    "source": 2860837171021627,
+                    "id": "BRAND",
+                    "value_name": "L'Oréal Paris",
+                    "value_struct": null,
+                    "name": "Marca",
+                    "value_id": "1220699",
+                    "attribute_group_id": "OTHERS"
+                },
+                {
+                    "id": "ITEM_CONDITION",
+                    "value_name": "Nuevo",
+                    "values": [
+                        {
+                            "id": "2230284",
+                            "name": "Nuevo",
+                            "struct": null,
+                            "source": 2860837171021627
+                        }
+                    ],
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros",
+                    "source": 2860837171021627,
+                    "name": "Condición del ítem",
+                    "value_id": "2230284",
+                    "value_struct": null
+                },
+                {
+                    "id": "LINE",
+                    "name": "Línea",
+                    "value_struct": null,
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros",
+                    "source": 2860837171021627,
+                    "value_id": null,
+                    "value_name": "SERIE EXPERT",
+                    "values": [
+                        {
+                            "name": "SERIE EXPERT",
+                            "struct": null,
+                            "source": 2860837171021627,
+                            "id": null
+                        }
+                    ]
+                }
+            ],
+            "original_price": null,
+            "category_id": "MCO180951",
+            "official_store_id": null,
+            "domain_id": "MCO-HAIR_SHAMPOOS_AND_CONDITIONERS",
+            "catalog_product_id": null,
+            "tags": [
+                "good_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MCO585183719",
+            "site_id": "MCO",
+            "title": "Quien Anda Ahí? / Quino",
+            "seller": {
+                "id": 438128163,
+                "permalink": null,
+                "registration_date": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": null
+            },
+            "price": 55000,
+            "prices": {},
+            "sale_price": null,
+            "currency_id": "COP",
+            "available_quantity": 1,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2040-09-21T04:00:00.000Z",
+            "condition": "new",
+            "permalink": "https://articulo.mercadolibre.com.co/MCO-585183719-quien-anda-ahi-quino-_JM",
+            "thumbnail": "http://mco-s2-p.mlstatic.com/708168-MCO43604438759_092020-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 4583.33,
+                "rate": 0,
+                "currency_id": "COP"
+            },
+            "address": {
+                "state_id": "CO-DC",
+                "state_name": "Bogotá D.C.",
+                "city_id": "TUNPQ1BVRTg0NTU0",
+                "city_name": "Puente Aranda"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [
+                    "self_service_out"
+                ],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "CO",
+                    "name": "Colombia"
+                },
+                "state": {
+                    "id": "CO-DC",
+                    "name": "Bogotá D.C."
+                },
+                "city": {
+                    "id": "TUNPQ1BVRTg0NTU0",
+                    "name": "Puente Aranda"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "id": "ITEM_CONDITION",
+                    "value_struct": null,
+                    "source": 4954751883138633,
+                    "attribute_group_name": "Otros",
+                    "name": "Condición del ítem",
+                    "value_id": "2230284",
+                    "value_name": "Nuevo",
+                    "values": [
+                        {
+                            "id": "2230284",
+                            "name": "Nuevo",
+                            "struct": null,
+                            "source": 4954751883138633
+                        }
+                    ],
+                    "attribute_group_id": "OTHERS"
+                }
+            ],
+            "differential_pricing": {
+                "id": 33602181
+            },
+            "original_price": null,
+            "category_id": "MCO1196",
+            "official_store_id": null,
+            "domain_id": "MCO-BOOKS",
+            "catalog_product_id": null,
+            "tags": [
+                "poor_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MCO581535535",
+            "site_id": "MCO",
+            "title": "Mafalda: En Esta Familia No Hay Jefes - Quino",
+            "seller": {
+                "id": 317232815,
+                "permalink": null,
+                "registration_date": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": null
+            },
+            "price": 58000,
+            "prices": {},
+            "sale_price": null,
+            "currency_id": "COP",
+            "available_quantity": 1,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_special",
+            "stop_time": "2040-09-03T04:00:00.000Z",
+            "condition": "new",
+            "permalink": "https://articulo.mercadolibre.com.co/MCO-581535535-mafalda-en-esta-familia-no-hay-jefes-quino-_JM",
+            "thumbnail": "http://mco-s2-p.mlstatic.com/945486-MCO43660733605_102020-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 36,
+                "amount": 1611.11,
+                "rate": 0,
+                "currency_id": "COP"
+            },
+            "address": {
+                "state_id": "CO-DC",
+                "state_name": "Bogotá D.C.",
+                "city_id": "TUNPQ0NIQTk2OTI1",
+                "city_name": "Chapinero"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "CO",
+                    "name": "Colombia"
+                },
+                "state": {
+                    "id": "CO-DC",
+                    "name": "Bogotá D.C."
+                },
+                "city": {
+                    "id": "TUNPQ0NIQTk2OTI1",
+                    "name": "Chapinero"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "id": "ITEM_CONDITION",
+                    "name": "Condición del ítem",
+                    "value_id": "2230284",
+                    "value_struct": null,
+                    "attribute_group_name": "Otros",
+                    "value_name": "Nuevo",
+                    "values": [
+                        {
+                            "id": "2230284",
+                            "name": "Nuevo",
+                            "struct": null,
+                            "source": 1
+                        }
+                    ],
+                    "attribute_group_id": "OTHERS",
+                    "source": 1
+                }
+            ],
+            "original_price": null,
+            "category_id": "MCO1196",
+            "official_store_id": null,
+            "domain_id": "MCO-BOOKS",
+            "catalog_product_id": null,
+            "tags": [
+                "poor_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MCO585183661",
+            "site_id": "MCO",
+            "title": "Mafalda 9 / Quino",
+            "seller": {
+                "id": 438128163,
+                "permalink": null,
+                "registration_date": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": null
+            },
+            "price": 31000,
+            "prices": {},
+            "sale_price": null,
+            "currency_id": "COP",
+            "available_quantity": 1,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2040-09-21T04:00:00.000Z",
+            "condition": "new",
+            "permalink": "https://articulo.mercadolibre.com.co/MCO-585183661-mafalda-9-quino-_JM",
+            "thumbnail": "http://mco-s2-p.mlstatic.com/841911-MCO43603084141_092020-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 2583.33,
+                "rate": 0,
+                "currency_id": "COP"
+            },
+            "address": {
+                "state_id": "CO-DC",
+                "state_name": "Bogotá D.C.",
+                "city_id": "TUNPQ1BVRTg0NTU0",
+                "city_name": "Puente Aranda"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [
+                    "self_service_in"
+                ],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "CO",
+                    "name": "Colombia"
+                },
+                "state": {
+                    "id": "CO-DC",
+                    "name": "Bogotá D.C."
+                },
+                "city": {
+                    "id": "TUNPQ1BVRTg0NTU0",
+                    "name": "Puente Aranda"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "id": "ITEM_CONDITION",
+                    "value_name": "Nuevo",
+                    "value_struct": null,
+                    "attribute_group_id": "OTHERS",
+                    "source": 4954751883138633,
+                    "name": "Condición del ítem",
+                    "value_id": "2230284",
+                    "values": [
+                        {
+                            "id": "2230284",
+                            "name": "Nuevo",
+                            "struct": null,
+                            "source": 4954751883138633
+                        }
+                    ],
+                    "attribute_group_name": "Otros"
+                }
+            ],
+            "differential_pricing": {
+                "id": 33602181
+            },
+            "original_price": null,
+            "category_id": "MCO1196",
+            "official_store_id": null,
+            "domain_id": "MCO-BOOKS",
+            "catalog_product_id": null,
+            "tags": [
+                "poor_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MCO585183673",
+            "site_id": "MCO",
+            "title": "Mafalda 6 / Quino",
+            "seller": {
+                "id": 438128163,
+                "permalink": null,
+                "registration_date": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": null
+            },
+            "price": 31000,
+            "prices": {},
+            "sale_price": null,
+            "currency_id": "COP",
+            "available_quantity": 1,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2040-09-21T04:00:00.000Z",
+            "condition": "new",
+            "permalink": "https://articulo.mercadolibre.com.co/MCO-585183673-mafalda-6-quino-_JM",
+            "thumbnail": "http://mco-s2-p.mlstatic.com/975387-MCO43615045609_092020-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 2583.33,
+                "rate": 0,
+                "currency_id": "COP"
+            },
+            "address": {
+                "state_id": "CO-DC",
+                "state_name": "Bogotá D.C.",
+                "city_id": "TUNPQ1BVRTg0NTU0",
+                "city_name": "Puente Aranda"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [
+                    "self_service_in"
+                ],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "CO",
+                    "name": "Colombia"
+                },
+                "state": {
+                    "id": "CO-DC",
+                    "name": "Bogotá D.C."
+                },
+                "city": {
+                    "id": "TUNPQ1BVRTg0NTU0",
+                    "name": "Puente Aranda"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "value_id": "2230284",
+                    "value_name": "Nuevo",
+                    "value_struct": null,
+                    "attribute_group_id": "OTHERS",
+                    "source": 4954751883138633,
+                    "id": "ITEM_CONDITION",
+                    "name": "Condición del ítem",
+                    "values": [
+                        {
+                            "id": "2230284",
+                            "name": "Nuevo",
+                            "struct": null,
+                            "source": 4954751883138633
+                        }
+                    ],
+                    "attribute_group_name": "Otros"
+                }
+            ],
+            "differential_pricing": {
+                "id": 33602181
+            },
+            "original_price": null,
+            "category_id": "MCO1196",
+            "official_store_id": null,
+            "domain_id": "MCO-BOOKS",
+            "catalog_product_id": null,
+            "tags": [
+                "poor_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MCO585559212",
+            "site_id": "MCO",
+            "title": "Bien, Gracias, ¿y Usted? / Quino",
+            "seller": {
+                "id": 438128163,
+                "permalink": null,
+                "registration_date": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": null
+            },
+            "price": 44000,
+            "prices": {},
+            "sale_price": null,
+            "currency_id": "COP",
+            "available_quantity": 1,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2040-09-25T04:00:00.000Z",
+            "condition": "new",
+            "permalink": "https://articulo.mercadolibre.com.co/MCO-585559212-bien-gracias-y-usted-quino-_JM",
+            "thumbnail": "http://mco-s1-p.mlstatic.com/725876-MCO43641273316_102020-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 3666.67,
+                "rate": 0,
+                "currency_id": "COP"
+            },
+            "address": {
+                "state_id": "CO-DC",
+                "state_name": "Bogotá D.C.",
+                "city_id": "TUNPQ1BVRTg0NTU0",
+                "city_name": "Puente Aranda"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [
+                    "self_service_in"
+                ],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "CO",
+                    "name": "Colombia"
+                },
+                "state": {
+                    "id": "CO-DC",
+                    "name": "Bogotá D.C."
+                },
+                "city": {
+                    "id": "TUNPQ1BVRTg0NTU0",
+                    "name": "Puente Aranda"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "name": "Condición del ítem",
+                    "value_id": "2230284",
+                    "value_name": "Nuevo",
+                    "value_struct": null,
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros",
+                    "id": "ITEM_CONDITION",
+                    "source": 4954751883138633,
+                    "values": [
+                        {
+                            "id": "2230284",
+                            "name": "Nuevo",
+                            "struct": null,
+                            "source": 4954751883138633
+                        }
+                    ]
+                }
+            ],
+            "differential_pricing": {
+                "id": 33602181
+            },
+            "original_price": null,
+            "category_id": "MCO1196",
+            "official_store_id": null,
+            "domain_id": "MCO-BOOKS",
+            "catalog_product_id": null,
+            "tags": [
+                "good_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MCO581534054",
+            "site_id": "MCO",
+            "title": "Dejenme Inventar - Quino",
+            "seller": {
+                "id": 317232815,
+                "permalink": null,
+                "registration_date": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": null
+            },
+            "price": 44000,
+            "prices": null,
+            "sale_price": null,
+            "currency_id": "COP",
+            "available_quantity": 1,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_special",
+            "stop_time": "2040-09-03T04:00:00.000Z",
+            "condition": "new",
+            "permalink": "https://articulo.mercadolibre.com.co/MCO-581534054-dejenme-inventar-quino-_JM",
+            "thumbnail": "http://mco-s1-p.mlstatic.com/749272-MCO43410188051_092020-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 36,
+                "amount": 1222.22,
+                "rate": 0,
+                "currency_id": "COP"
+            },
+            "address": {
+                "state_id": "CO-DC",
+                "state_name": "Bogotá D.C.",
+                "city_id": "TUNPQ0NIQTk2OTI1",
+                "city_name": "Chapinero"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "CO",
+                    "name": "Colombia"
+                },
+                "state": {
+                    "id": "CO-DC",
+                    "name": "Bogotá D.C."
+                },
+                "city": {
+                    "id": "TUNPQ0NIQTk2OTI1",
+                    "name": "Chapinero"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "name": "Condición del ítem",
+                    "value_id": "2230284",
+                    "value_name": "Nuevo",
+                    "attribute_group_name": "Otros",
+                    "source": 1,
+                    "id": "ITEM_CONDITION",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "2230284",
+                            "name": "Nuevo",
+                            "struct": null,
+                            "source": 1
+                        }
+                    ],
+                    "attribute_group_id": "OTHERS"
+                }
+            ],
+            "original_price": null,
+            "category_id": "MCO1196",
+            "official_store_id": null,
+            "domain_id": "MCO-BOOKS",
+            "catalog_product_id": null,
+            "tags": [
+                "good_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MCO547246974",
+            "site_id": "MCO",
+            "title": "10 Años Con Mafalda",
+            "seller": {
+                "id": 41202381,
+                "permalink": null,
+                "registration_date": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": null
+            },
+            "price": 79000,
+            "prices": {},
+            "sale_price": null,
+            "currency_id": "COP",
+            "available_quantity": 200,
+            "sold_quantity": 1,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_special",
+            "stop_time": "2039-12-25T04:00:00.000Z",
+            "condition": "new",
+            "permalink": "https://articulo.mercadolibre.com.co/MCO-547246974-10-anos-con-mafalda-_JM",
+            "thumbnail": "http://mco-s1-p.mlstatic.com/908198-MCO43494103614_092020-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 36,
+                "amount": 2194.44,
+                "rate": 0,
+                "currency_id": "COP"
+            },
+            "address": {
+                "state_id": "CO-DC",
+                "state_name": "Bogotá D.C.",
+                "city_id": "TUNPQ1NBTjkyOTU1",
+                "city_name": "Santa Fe"
+            },
+            "shipping": {
+                "free_shipping": true,
+                "mode": "me2",
+                "tags": [
+                    "self_service_out",
+                    "mandatory_free_shipping"
+                ],
+                "logistic_type": "cross_docking",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "CO",
+                    "name": "Colombia"
+                },
+                "state": {
+                    "id": "CO-DC",
+                    "name": "Bogotá D.C."
+                },
+                "city": {
+                    "id": "TUNPQ1NBTjkyOTU1",
+                    "name": "Santa Fe"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "value_name": "Nuevo",
+                    "attribute_group_name": "Otros",
+                    "source": 6808261514773724,
+                    "values": [
+                        {
+                            "id": "2230284",
+                            "name": "Nuevo",
+                            "struct": null,
+                            "source": 6808261514773724
+                        }
+                    ],
+                    "attribute_group_id": "OTHERS",
+                    "id": "ITEM_CONDITION",
+                    "name": "Condición del ítem",
+                    "value_id": "2230284",
+                    "value_struct": null
+                }
+            ],
+            "original_price": null,
+            "category_id": "MCO1196",
+            "official_store_id": null,
+            "domain_id": "MCO-BOOKS",
+            "catalog_product_id": null,
+            "tags": [
+                "good_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MCO586159257",
+            "site_id": "MCO",
+            "title": "Base Refrigerante Trust Quno Gxt1125",
+            "seller": {
+                "id": 207614226,
+                "permalink": null,
+                "registration_date": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": null
+            },
+            "price": 215000,
+            "prices": {},
+            "sale_price": null,
+            "currency_id": "COP",
+            "available_quantity": 1,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_special",
+            "stop_time": "2040-09-27T04:00:00.000Z",
+            "condition": "new",
+            "permalink": "https://articulo.mercadolibre.com.co/MCO-586159257-base-refrigerante-trust-quno-gxt1125-_JM",
+            "thumbnail": "http://mco-s2-p.mlstatic.com/658625-MCO43656722158_102020-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 36,
+                "amount": 5972.22,
+                "rate": 0,
+                "currency_id": "COP"
+            },
+            "address": {
+                "state_id": "CO-DC",
+                "state_name": "Bogotá D.C.",
+                "city_id": "TUNPQ0NIQTk2OTI1",
+                "city_name": "Chapinero"
+            },
+            "shipping": {
+                "free_shipping": true,
+                "mode": "me2",
+                "tags": [
+                    "self_service_in",
+                    "mandatory_free_shipping"
+                ],
+                "logistic_type": "cross_docking",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "CO",
+                    "name": "Colombia"
+                },
+                "state": {
+                    "id": "CO-DC",
+                    "name": "Bogotá D.C."
+                },
+                "city": {
+                    "id": "TUNPQ0NIQTk2OTI1",
+                    "name": "Chapinero"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "value_name": "Trust",
+                    "value_struct": null,
+                    "attribute_group_name": "Otros",
+                    "source": 6808261514773724,
+                    "id": "BRAND",
+                    "name": "Marca",
+                    "value_id": "42328",
+                    "values": [
+                        {
+                            "source": 6808261514773724,
+                            "id": "42328",
+                            "name": "Trust",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "OTHERS"
+                },
+                {
+                    "name": "Condición del ítem",
+                    "value_id": "2230284",
+                    "value_name": "Nuevo",
+                    "value_struct": null,
+                    "attribute_group_id": "OTHERS",
+                    "id": "ITEM_CONDITION",
+                    "attribute_group_name": "Otros",
+                    "source": 6808261514773724,
+                    "values": [
+                        {
+                            "name": "Nuevo",
+                            "struct": null,
+                            "source": 6808261514773724,
+                            "id": "2230284"
+                        }
+                    ]
+                },
+                {
+                    "id": "LENGTH",
+                    "name": "Largo",
+                    "value_id": "-1",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "name": null,
+                            "struct": null,
+                            "source": 6808261514773724,
+                            "id": "-1"
+                        }
+                    ],
+                    "attribute_group_name": "Otros",
+                    "value_name": null,
+                    "attribute_group_id": "OTHERS",
+                    "source": 6808261514773724
+                },
+                {
+                    "value_id": null,
+                    "values": [
+                        {
+                            "id": null,
+                            "name": "GXT1125",
+                            "struct": null,
+                            "source": 6808261514773724
+                        }
+                    ],
+                    "source": 6808261514773724,
+                    "name": "Línea",
+                    "value_name": "GXT1125",
+                    "value_struct": null,
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros",
+                    "id": "LINE"
+                },
+                {
+                    "value_struct": null,
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros",
+                    "source": 6808261514773724,
+                    "id": "MODEL",
+                    "value_id": null,
+                    "value_name": "QUNO",
+                    "values": [
+                        {
+                            "name": "QUNO",
+                            "struct": null,
+                            "source": 6808261514773724,
+                            "id": null
+                        }
+                    ],
+                    "name": "Modelo"
+                },
+                {
+                    "name": "Peso",
+                    "value_name": "1060 g",
+                    "values": [
+                        {
+                            "id": null,
+                            "name": "1060 g",
+                            "struct": {
+                                "number": 1060,
+                                "unit": "g"
+                            },
+                            "source": 1183438784296846
+                        }
+                    ],
+                    "id": "WEIGHT",
+                    "value_id": null,
+                    "value_struct": {
+                        "number": 1060,
+                        "unit": "g"
+                    },
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros",
+                    "source": 1183438784296846
+                }
+            ],
+            "original_price": null,
+            "category_id": "MCO16555",
+            "official_store_id": null,
+            "domain_id": "MCO-LAPTOP_STANDS",
+            "catalog_product_id": null,
+            "tags": [
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MCO585183688",
+            "site_id": "MCO",
+            "title": "Mafalda 4 / Quino",
+            "seller": {
+                "id": 438128163,
+                "permalink": null,
+                "registration_date": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": null
+            },
+            "price": 31000,
+            "prices": {},
+            "sale_price": null,
+            "currency_id": "COP",
+            "available_quantity": 1,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2040-09-21T04:00:00.000Z",
+            "condition": "new",
+            "permalink": "https://articulo.mercadolibre.com.co/MCO-585183688-mafalda-4-quino-_JM",
+            "thumbnail": "http://mco-s1-p.mlstatic.com/949395-MCO43627615716_092020-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 2583.33,
+                "rate": 0,
+                "currency_id": "COP"
+            },
+            "address": {
+                "state_id": "CO-DC",
+                "state_name": "Bogotá D.C.",
+                "city_id": "TUNPQ1BVRTg0NTU0",
+                "city_name": "Puente Aranda"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [
+                    "self_service_in"
+                ],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "CO",
+                    "name": "Colombia"
+                },
+                "state": {
+                    "id": "CO-DC",
+                    "name": "Bogotá D.C."
+                },
+                "city": {
+                    "id": "TUNPQ1BVRTg0NTU0",
+                    "name": "Puente Aranda"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "id": "ITEM_CONDITION",
+                    "value_id": "2230284",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "2230284",
+                            "name": "Nuevo",
+                            "struct": null,
+                            "source": 4954751883138633
+                        }
+                    ],
+                    "attribute_group_id": "OTHERS",
+                    "name": "Condición del ítem",
+                    "value_name": "Nuevo",
+                    "attribute_group_name": "Otros",
+                    "source": 4954751883138633
+                }
+            ],
+            "differential_pricing": {
+                "id": 33602181
+            },
+            "original_price": null,
+            "category_id": "MCO1196",
+            "official_store_id": null,
+            "domain_id": "MCO-BOOKS",
+            "catalog_product_id": null,
+            "tags": [
+                "good_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MCO585559219",
+            "site_id": "MCO",
+            "title": "Simplemente / Quino",
+            "seller": {
+                "id": 438128163,
+                "permalink": null,
+                "registration_date": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": null
+            },
+            "price": 54000,
+            "prices": {},
+            "sale_price": null,
+            "currency_id": "COP",
+            "available_quantity": 1,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2040-09-25T04:00:00.000Z",
+            "condition": "new",
+            "permalink": "https://articulo.mercadolibre.com.co/MCO-585559219-simplemente-quino-_JM",
+            "thumbnail": "http://mco-s2-p.mlstatic.com/629095-MCO43638907497_092020-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 4500,
+                "rate": 0,
+                "currency_id": "COP"
+            },
+            "address": {
+                "state_id": "CO-DC",
+                "state_name": "Bogotá D.C.",
+                "city_id": "TUNPQ1BVRTg0NTU0",
+                "city_name": "Puente Aranda"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [
+                    "self_service_in"
+                ],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "CO",
+                    "name": "Colombia"
+                },
+                "state": {
+                    "id": "CO-DC",
+                    "name": "Bogotá D.C."
+                },
+                "city": {
+                    "id": "TUNPQ1BVRTg0NTU0",
+                    "name": "Puente Aranda"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "value_name": "Nuevo",
+                    "values": [
+                        {
+                            "source": 4954751883138633,
+                            "id": "2230284",
+                            "name": "Nuevo",
+                            "struct": null
+                        }
+                    ],
+                    "id": "ITEM_CONDITION",
+                    "value_id": "2230284",
+                    "value_struct": null,
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros",
+                    "source": 4954751883138633,
+                    "name": "Condición del ítem"
+                }
+            ],
+            "differential_pricing": {
+                "id": 33602181
+            },
+            "original_price": null,
+            "category_id": "MCO1196",
+            "official_store_id": null,
+            "domain_id": "MCO-BOOKS",
+            "catalog_product_id": "MCO7629397",
+            "tags": [
+                "good_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MCO585183695",
+            "site_id": "MCO",
+            "title": "Mafalda: Femenino Singular / Quino",
+            "seller": {
+                "id": 438128163,
+                "permalink": null,
+                "registration_date": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": null
+            },
+            "price": 49000,
+            "prices": {},
+            "sale_price": null,
+            "currency_id": "COP",
+            "available_quantity": 1,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2040-09-21T04:00:00.000Z",
+            "condition": "new",
+            "permalink": "https://articulo.mercadolibre.com.co/MCO-585183695-mafalda-femenino-singular-quino-_JM",
+            "thumbnail": "http://mco-s2-p.mlstatic.com/974447-MCO43622097765_092020-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 4083.33,
+                "rate": 0,
+                "currency_id": "COP"
+            },
+            "address": {
+                "state_id": "CO-DC",
+                "state_name": "Bogotá D.C.",
+                "city_id": "TUNPQ1BVRTg0NTU0",
+                "city_name": "Puente Aranda"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [
+                    "self_service_out"
+                ],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "CO",
+                    "name": "Colombia"
+                },
+                "state": {
+                    "id": "CO-DC",
+                    "name": "Bogotá D.C."
+                },
+                "city": {
+                    "id": "TUNPQ1BVRTg0NTU0",
+                    "name": "Puente Aranda"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "attribute_group_name": "Otros",
+                    "source": 4954751883138633,
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "2230284",
+                            "name": "Nuevo",
+                            "struct": null,
+                            "source": 4954751883138633
+                        }
+                    ],
+                    "attribute_group_id": "OTHERS",
+                    "value_name": "Nuevo",
+                    "id": "ITEM_CONDITION",
+                    "name": "Condición del ítem",
+                    "value_id": "2230284"
+                }
+            ],
+            "differential_pricing": {
+                "id": 33602181
+            },
+            "original_price": null,
+            "category_id": "MCO1196",
+            "official_store_id": null,
+            "domain_id": "MCO-BOOKS",
+            "catalog_product_id": null,
+            "tags": [
+                "good_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MCO581534045",
+            "site_id": "MCO",
+            "title": "A Mi No Me Grite - Quino",
+            "seller": {
+                "id": 317232815,
+                "permalink": null,
+                "registration_date": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": null
+            },
+            "price": 48000,
+            "prices": null,
+            "sale_price": null,
+            "currency_id": "COP",
+            "available_quantity": 1,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_special",
+            "stop_time": "2040-09-03T04:00:00.000Z",
+            "condition": "new",
+            "permalink": "https://articulo.mercadolibre.com.co/MCO-581534045-a-mi-no-me-grite-quino-_JM",
+            "thumbnail": "http://mco-s2-p.mlstatic.com/717280-MCO43410183986_092020-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 36,
+                "amount": 1333.33,
+                "rate": 0,
+                "currency_id": "COP"
+            },
+            "address": {
+                "state_id": "CO-DC",
+                "state_name": "Bogotá D.C.",
+                "city_id": "TUNPQ0NIQTk2OTI1",
+                "city_name": "Chapinero"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "CO",
+                    "name": "Colombia"
+                },
+                "state": {
+                    "id": "CO-DC",
+                    "name": "Bogotá D.C."
+                },
+                "city": {
+                    "id": "TUNPQ0NIQTk2OTI1",
+                    "name": "Chapinero"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "id": "ITEM_CONDITION",
+                    "name": "Condición del ítem",
+                    "value_name": "Nuevo",
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros",
+                    "value_id": "2230284",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "2230284",
+                            "name": "Nuevo",
+                            "struct": null,
+                            "source": 1
+                        }
+                    ],
+                    "source": 1
+                }
+            ],
+            "original_price": null,
+            "category_id": "MCO1196",
+            "official_store_id": null,
+            "domain_id": "MCO-BOOKS",
+            "catalog_product_id": null,
+            "tags": [
+                "good_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MCO564369155",
+            "site_id": "MCO",
+            "title": "Wk 2.020 - Quino, Calendario De Pared",
+            "seller": {
+                "id": 41202381,
+                "permalink": null,
+                "registration_date": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": null
+            },
+            "price": 32773,
+            "prices": {},
+            "sale_price": null,
+            "currency_id": "COP",
+            "available_quantity": 1,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_special",
+            "stop_time": "2040-05-24T04:00:00.000Z",
+            "condition": "new",
+            "permalink": "https://articulo.mercadolibre.com.co/MCO-564369155-wk-2020-quino-calendario-de-pared-_JM",
+            "thumbnail": "http://mco-s2-p.mlstatic.com/840602-MCO42007503048_052020-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 36,
+                "amount": 910.36,
+                "rate": 0,
+                "currency_id": "COP"
+            },
+            "address": {
+                "state_id": "CO-DC",
+                "state_name": "Bogotá D.C.",
+                "city_id": "TUNPQ1NBTjkyOTU1",
+                "city_name": "Santa Fe"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [
+                    "self_service_in"
+                ],
+                "logistic_type": "cross_docking",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "CO",
+                    "name": "Colombia"
+                },
+                "state": {
+                    "id": "CO-DC",
+                    "name": "Bogotá D.C."
+                },
+                "city": {
+                    "id": "TUNPQ1NBTjkyOTU1",
+                    "name": "Santa Fe"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "value_name": "Nuevo",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "source": 1,
+                            "id": "2230284",
+                            "name": "Nuevo",
+                            "struct": null
+                        }
+                    ],
+                    "attribute_group_id": "",
+                    "id": "ITEM_CONDITION",
+                    "name": "Condición del ítem",
+                    "value_id": "2230284",
+                    "attribute_group_name": "",
+                    "source": 1
+                }
+            ],
+            "original_price": null,
+            "category_id": "MCO1196",
+            "official_store_id": null,
+            "domain_id": "MCO-BOOKS",
+            "catalog_product_id": null,
+            "tags": [
+                "poor_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MCO564369168",
+            "site_id": "MCO",
+            "title": "Dr 2.020 - Quino, Agenda Encuadernada Negra",
+            "seller": {
+                "id": 41202381,
+                "permalink": null,
+                "registration_date": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": null
+            },
+            "price": 50420,
+            "prices": {},
+            "sale_price": null,
+            "currency_id": "COP",
+            "available_quantity": 50,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_special",
+            "stop_time": "2040-05-24T04:00:00.000Z",
+            "condition": "new",
+            "permalink": "https://articulo.mercadolibre.com.co/MCO-564369168-dr-2020-quino-agenda-encuadernada-negra-_JM",
+            "thumbnail": "http://mco-s1-p.mlstatic.com/831167-MCO43427159393_092020-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 36,
+                "amount": 1400.56,
+                "rate": 0,
+                "currency_id": "COP"
+            },
+            "address": {
+                "state_id": "CO-DC",
+                "state_name": "Bogotá D.C.",
+                "city_id": "TUNPQ1NBTjkyOTU1",
+                "city_name": "Santa Fe"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [
+                    "self_service_in"
+                ],
+                "logistic_type": "cross_docking",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "CO",
+                    "name": "Colombia"
+                },
+                "state": {
+                    "id": "CO-DC",
+                    "name": "Bogotá D.C."
+                },
+                "city": {
+                    "id": "TUNPQ1NBTjkyOTU1",
+                    "name": "Santa Fe"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "name": "Condición del ítem",
+                    "values": [
+                        {
+                            "id": "2230284",
+                            "name": "Nuevo",
+                            "struct": null,
+                            "source": 1
+                        }
+                    ],
+                    "attribute_group_name": "",
+                    "source": 1,
+                    "id": "ITEM_CONDITION",
+                    "value_id": "2230284",
+                    "value_name": "Nuevo",
+                    "value_struct": null,
+                    "attribute_group_id": ""
+                }
+            ],
+            "original_price": null,
+            "category_id": "MCO1196",
+            "official_store_id": null,
+            "domain_id": "MCO-BOOKS",
+            "catalog_product_id": null,
+            "tags": [
+                "poor_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MCO564369184",
+            "site_id": "MCO",
+            "title": "Dr 2.020 - Quino, Agenda Encuadernada Azul",
+            "seller": {
+                "id": 41202381,
+                "permalink": null,
+                "registration_date": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": null
+            },
+            "price": 50420,
+            "prices": {},
+            "sale_price": null,
+            "currency_id": "COP",
+            "available_quantity": 1,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_special",
+            "stop_time": "2040-05-24T04:00:00.000Z",
+            "condition": "new",
+            "permalink": "https://articulo.mercadolibre.com.co/MCO-564369184-dr-2020-quino-agenda-encuadernada-azul-_JM",
+            "thumbnail": "http://mco-s1-p.mlstatic.com/882993-MCO43418708144_092020-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 36,
+                "amount": 1400.56,
+                "rate": 0,
+                "currency_id": "COP"
+            },
+            "address": {
+                "state_id": "CO-DC",
+                "state_name": "Bogotá D.C.",
+                "city_id": "TUNPQ1NBTjkyOTU1",
+                "city_name": "Santa Fe"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [
+                    "self_service_in"
+                ],
+                "logistic_type": "cross_docking",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "CO",
+                    "name": "Colombia"
+                },
+                "state": {
+                    "id": "CO-DC",
+                    "name": "Bogotá D.C."
+                },
+                "city": {
+                    "id": "TUNPQ1NBTjkyOTU1",
+                    "name": "Santa Fe"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "value_id": "2230284",
+                    "value_name": "Nuevo",
+                    "value_struct": null,
+                    "attribute_group_id": "",
+                    "id": "ITEM_CONDITION",
+                    "name": "Condición del ítem",
+                    "values": [
+                        {
+                            "id": "2230284",
+                            "name": "Nuevo",
+                            "struct": null,
+                            "source": 1
+                        }
+                    ],
+                    "attribute_group_name": "",
+                    "source": 1
+                }
+            ],
+            "original_price": null,
+            "category_id": "MCO1196",
+            "official_store_id": null,
+            "domain_id": "MCO-BOOKS",
+            "catalog_product_id": null,
+            "tags": [
+                "poor_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MCO585183682",
+            "site_id": "MCO",
+            "title": "Mafalda 5 / Quino",
+            "seller": {
+                "id": 438128163,
+                "permalink": null,
+                "registration_date": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": null
+            },
+            "price": 31000,
+            "prices": {},
+            "sale_price": null,
+            "currency_id": "COP",
+            "available_quantity": 1,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2040-09-21T04:00:00.000Z",
+            "condition": "new",
+            "permalink": "https://articulo.mercadolibre.com.co/MCO-585183682-mafalda-5-quino-_JM",
+            "thumbnail": "http://mco-s1-p.mlstatic.com/846996-MCO43627668609_092020-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 2583.33,
+                "rate": 0,
+                "currency_id": "COP"
+            },
+            "address": {
+                "state_id": "CO-DC",
+                "state_name": "Bogotá D.C.",
+                "city_id": "TUNPQ1BVRTg0NTU0",
+                "city_name": "Puente Aranda"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [
+                    "self_service_in"
+                ],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "CO",
+                    "name": "Colombia"
+                },
+                "state": {
+                    "id": "CO-DC",
+                    "name": "Bogotá D.C."
+                },
+                "city": {
+                    "id": "TUNPQ1BVRTg0NTU0",
+                    "name": "Puente Aranda"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "value_id": "2230284",
+                    "value_name": "Nuevo",
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros",
+                    "source": 4954751883138633,
+                    "id": "ITEM_CONDITION",
+                    "name": "Condición del ítem",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "2230284",
+                            "name": "Nuevo",
+                            "struct": null,
+                            "source": 4954751883138633
+                        }
+                    ]
+                }
+            ],
+            "differential_pricing": {
+                "id": 33602181
+            },
+            "original_price": null,
+            "category_id": "MCO1196",
+            "official_store_id": null,
+            "domain_id": "MCO-BOOKS",
+            "catalog_product_id": null,
+            "tags": [
+                "good_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MCO585183743",
+            "site_id": "MCO",
+            "title": "Mafalda 8 / Quino",
+            "seller": {
+                "id": 438128163,
+                "permalink": null,
+                "registration_date": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": null
+            },
+            "price": 31000,
+            "prices": {},
+            "sale_price": null,
+            "currency_id": "COP",
+            "available_quantity": 1,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2040-09-21T04:00:00.000Z",
+            "condition": "new",
+            "permalink": "https://articulo.mercadolibre.com.co/MCO-585183743-mafalda-8-quino-_JM",
+            "thumbnail": "http://mco-s2-p.mlstatic.com/639204-MCO43604321736_092020-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 2583.33,
+                "rate": 0,
+                "currency_id": "COP"
+            },
+            "address": {
+                "state_id": "CO-DC",
+                "state_name": "Bogotá D.C.",
+                "city_id": "TUNPQ1BVRTg0NTU0",
+                "city_name": "Puente Aranda"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [
+                    "self_service_in"
+                ],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "CO",
+                    "name": "Colombia"
+                },
+                "state": {
+                    "id": "CO-DC",
+                    "name": "Bogotá D.C."
+                },
+                "city": {
+                    "id": "TUNPQ1BVRTg0NTU0",
+                    "name": "Puente Aranda"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "values": [
+                        {
+                            "id": "2230284",
+                            "name": "Nuevo",
+                            "struct": null,
+                            "source": 4954751883138633
+                        }
+                    ],
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros",
+                    "value_name": "Nuevo",
+                    "name": "Condición del ítem",
+                    "value_id": "2230284",
+                    "value_struct": null,
+                    "source": 4954751883138633,
+                    "id": "ITEM_CONDITION"
+                }
+            ],
+            "differential_pricing": {
+                "id": 33602181
+            },
+            "original_price": null,
+            "category_id": "MCO1196",
+            "official_store_id": null,
+            "domain_id": "MCO-BOOKS",
+            "catalog_product_id": null,
+            "tags": [
+                "good_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MCO585559216",
+            "site_id": "MCO",
+            "title": "Déjenme Inventar / Quino",
+            "seller": {
+                "id": 438128163,
+                "permalink": null,
+                "registration_date": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": null
+            },
+            "price": 44000,
+            "prices": {},
+            "sale_price": null,
+            "currency_id": "COP",
+            "available_quantity": 1,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2040-09-25T04:00:00.000Z",
+            "condition": "new",
+            "permalink": "https://articulo.mercadolibre.com.co/MCO-585559216-dejenme-inventar-quino-_JM",
+            "thumbnail": "http://mco-s1-p.mlstatic.com/610023-MCO43638989215_092020-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 3666.67,
+                "rate": 0,
+                "currency_id": "COP"
+            },
+            "address": {
+                "state_id": "CO-DC",
+                "state_name": "Bogotá D.C.",
+                "city_id": "TUNPQ1BVRTg0NTU0",
+                "city_name": "Puente Aranda"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [
+                    "self_service_in"
+                ],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "CO",
+                    "name": "Colombia"
+                },
+                "state": {
+                    "id": "CO-DC",
+                    "name": "Bogotá D.C."
+                },
+                "city": {
+                    "id": "TUNPQ1BVRTg0NTU0",
+                    "name": "Puente Aranda"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "value_id": "2230284",
+                    "value_name": "Nuevo",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "struct": null,
+                            "source": 4954751883138633,
+                            "id": "2230284",
+                            "name": "Nuevo"
+                        }
+                    ],
+                    "attribute_group_id": "OTHERS",
+                    "source": 4954751883138633,
+                    "id": "ITEM_CONDITION",
+                    "name": "Condición del ítem",
+                    "attribute_group_name": "Otros"
+                }
+            ],
+            "differential_pricing": {
+                "id": 33602181
+            },
+            "original_price": null,
+            "category_id": "MCO1196",
+            "official_store_id": null,
+            "domain_id": "MCO-BOOKS",
+            "catalog_product_id": null,
+            "tags": [
+                "poor_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        },
+        {
+            "id": "MCO565647958",
+            "site_id": "MCO",
+            "title": "Hombres De Bolsillo. Quino. Pdf",
+            "seller": {
+                "id": 227852841,
+                "permalink": null,
+                "registration_date": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": null
+            },
+            "price": 2000,
+            "prices": null,
+            "sale_price": null,
+            "currency_id": "COP",
+            "available_quantity": 50,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2040-06-03T04:00:00.000Z",
+            "condition": "new",
+            "permalink": "https://articulo.mercadolibre.com.co/MCO-565647958-hombres-de-bolsillo-quino-pdf-_JM",
+            "thumbnail": "http://mco-s1-p.mlstatic.com/957586-MCO42122994992_062020-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 166.67,
+                "rate": 0,
+                "currency_id": "COP"
+            },
+            "address": {
+                "state_id": "CO-SAN",
+                "state_name": "Santander",
+                "city_id": "TUNPQ0JVQzkzMTE4",
+                "city_name": "Bucaramanga"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "not_specified",
+                "tags": [],
+                "logistic_type": "not_specified",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "CO",
+                    "name": "Colombia"
+                },
+                "state": {
+                    "id": "CO-SAN",
+                    "name": "Santander"
+                },
+                "city": {
+                    "id": "TUNPQ0JVQzkzMTE4",
+                    "name": "Bucaramanga"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "source": 2860837171021627,
+                    "name": "Marca",
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "name": "La BiblioteKa.Pdf",
+                            "struct": null,
+                            "source": 2860837171021627,
+                            "id": null
+                        }
+                    ],
+                    "id": "BRAND",
+                    "value_id": null,
+                    "value_name": "La BiblioteKa.Pdf"
+                },
+                {
+                    "id": "ITEM_CONDITION",
+                    "value_id": "2230284",
+                    "value_name": "Nuevo",
+                    "source": 2860837171021627,
+                    "name": "Condición del ítem",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "2230284",
+                            "name": "Nuevo",
+                            "struct": null,
+                            "source": 2860837171021627
+                        }
+                    ],
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros"
+                },
+                {
+                    "name": "Modelo",
+                    "value_id": null,
+                    "value_struct": null,
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros",
+                    "id": "MODEL",
+                    "value_name": "Librería Virtual",
+                    "values": [
+                        {
+                            "id": null,
+                            "name": "Librería Virtual",
+                            "struct": null,
+                            "source": 2860837171021627
+                        }
+                    ],
+                    "source": 2860837171021627
+                }
+            ],
+            "differential_pricing": {
+                "id": 33602181
+            },
+            "original_price": null,
+            "category_id": "MCO3530",
+            "official_store_id": null,
+            "domain_id": "MCO-UNCLASSIFIED_PRODUCTS",
+            "catalog_product_id": null,
+            "tags": [
+                "poor_quality_picture",
+                "immediate_payment"
+            ]
+        },
+        {
+            "id": "MCO585559217",
+            "site_id": "MCO",
+            "title": "Humano Se Nace / Quino",
+            "seller": {
+                "id": 438128163,
+                "permalink": null,
+                "registration_date": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": null
+            },
+            "price": 46000,
+            "prices": {},
+            "sale_price": null,
+            "currency_id": "COP",
+            "available_quantity": 1,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2040-09-25T04:00:00.000Z",
+            "condition": "new",
+            "permalink": "https://articulo.mercadolibre.com.co/MCO-585559217-humano-se-nace-quino-_JM",
+            "thumbnail": "http://mco-s2-p.mlstatic.com/903765-MCO43638948648_092020-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 3833.33,
+                "rate": 0,
+                "currency_id": "COP"
+            },
+            "address": {
+                "state_id": "CO-DC",
+                "state_name": "Bogotá D.C.",
+                "city_id": "TUNPQ1BVRTg0NTU0",
+                "city_name": "Puente Aranda"
+            },
+            "shipping": {
+                "free_shipping": false,
+                "mode": "me2",
+                "tags": [
+                    "self_service_in"
+                ],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "CO",
+                    "name": "Colombia"
+                },
+                "state": {
+                    "id": "CO-DC",
+                    "name": "Bogotá D.C."
+                },
+                "city": {
+                    "id": "TUNPQ1BVRTg0NTU0",
+                    "name": "Puente Aranda"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "id": "ITEM_CONDITION",
+                    "value_id": "2230284",
+                    "value_name": "Nuevo",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "2230284",
+                            "name": "Nuevo",
+                            "struct": null,
+                            "source": 4954751883138633
+                        }
+                    ],
+                    "name": "Condición del ítem",
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros",
+                    "source": 4954751883138633
+                }
+            ],
+            "differential_pricing": {
+                "id": 33602181
+            },
+            "original_price": null,
+            "category_id": "MCO1196",
+            "official_store_id": null,
+            "domain_id": "MCO-BOOKS",
+            "catalog_product_id": null,
+            "tags": [
+                "poor_quality_picture",
+                "immediate_payment",
+                "cart_eligible"
+            ]
+        }
+    ],
+    "secondary_results": [],
+    "related_results": [],
+    "sort": {
+        "id": "relevance",
+        "name": "Más relevantes"
+    },
+    "available_sorts": [
+        {
+            "id": "price_asc",
+            "name": "Menor precio"
+        },
+        {
+            "id": "price_desc",
+            "name": "Mayor precio"
+        }
+    ],
+    "filters": [],
+    "available_filters": [
+        {
+            "id": "category",
+            "name": "Categorías",
+            "type": "text",
+            "values": [
+                {
+                    "id": "MCO1196",
+                    "name": "Libros",
+                    "results": 86
+                },
+                {
+                    "id": "MCO3043",
+                    "name": "Comics",
+                    "results": 4
+                },
+                {
+                    "id": "MCO1071",
+                    "name": "Animales y Mascotas",
+                    "results": 10
+                },
+                {
+                    "id": "MCO1368",
+                    "name": "Arte, Papelería y Mercería",
+                    "results": 3
+                },
+                {
+                    "id": "MCO1574",
+                    "name": "Hogar y Muebles",
+                    "results": 3
+                },
+                {
+                    "id": "MCO1051",
+                    "name": "Celulares y Teléfonos",
+                    "results": 2
+                },
+                {
+                    "id": "MCO1648",
+                    "name": "Computación",
+                    "results": 2
+                },
+                {
+                    "id": "MCO180800",
+                    "name": "Salud y Equipamiento Médico",
+                    "results": 2
+                },
+                {
+                    "id": "MCO1367",
+                    "name": "Antigüedades y Colecciones",
+                    "results": 1
+                },
+                {
+                    "id": "MCO1246",
+                    "name": "Belleza y Cuidado Personal",
+                    "results": 1
+                },
+                {
+                    "id": "MCO1132",
+                    "name": "Juegos y Juguetes",
+                    "results": 1
+                },
+                {
+                    "id": "MCO1953",
+                    "name": "Otras categorías",
+                    "results": 2
+                },
+                {
+                    "id": "MCO1227",
+                    "name": "Otros",
+                    "results": 1
+                }
+            ]
+        },
+        {
+            "id": "official_store",
+            "name": "Tiendas oficiales",
+            "type": "text",
+            "values": [
+                {
+                    "id": "all",
+                    "name": "Todas las tiendas oficiales",
+                    "results": 1
+                },
+                {
+                    "id": "209",
+                    "name": "Teknopolis",
+                    "results": 1
+                }
+            ]
+        },
+        {
+            "id": "state",
+            "name": "Ubicación",
+            "type": "text",
+            "values": [
+                {
+                    "id": "CO-DC",
+                    "name": "Bogotá D.C.",
+                    "results": 97
+                },
+                {
+                    "id": "CO-CUN",
+                    "name": "Cundinamarca",
+                    "results": 6
+                },
+                {
+                    "id": "CO-ANT",
+                    "name": "Antioquia",
+                    "results": 5
+                },
+                {
+                    "id": "CO-NAR",
+                    "name": "Nariño",
+                    "results": 5
+                },
+                {
+                    "id": "CO-SAN",
+                    "name": "Santander",
+                    "results": 3
+                },
+                {
+                    "id": "CO-VAC",
+                    "name": "Valle Del Cauca",
+                    "results": 1
+                }
+            ]
+        },
+        {
+            "id": "price",
+            "name": "Precio",
+            "type": "range",
+            "values": [
+                {
+                    "id": "*-45000.0",
+                    "name": "Hasta $45.000",
+                    "results": 31
+                },
+                {
+                    "id": "45000.0-100000.0",
+                    "name": "$45.000 a $100.000",
+                    "results": 45
+                },
+                {
+                    "id": "100000.0-*",
+                    "name": "Más de $100.000",
+                    "results": 42
+                }
+            ]
+        },
+        {
+            "id": "accepts_mercadopago",
+            "name": "Filtro por MercadoPago",
+            "type": "boolean",
+            "values": [
+                {
+                    "id": "yes",
+                    "name": "Con MercadoPago",
+                    "results": 118
+                }
+            ]
+        },
+        {
+            "id": "installments",
+            "name": "Pago",
+            "type": "text",
+            "values": [
+                {
+                    "id": "yes",
+                    "name": "En cuotas",
+                    "results": 118
+                },
+                {
+                    "id": "no_interest",
+                    "name": "Cuotas sin interés",
+                    "results": 71
+                }
+            ]
+        },
+        {
+            "id": "shipping",
+            "name": "Envío",
+            "type": "text",
+            "values": [
+                {
+                    "id": "mercadoenvios",
+                    "name": "Mercado Envíos",
+                    "results": 116
+                }
+            ]
+        },
+        {
+            "id": "power_seller",
+            "name": "Filtro por calidad de vendedores",
+            "type": "boolean",
+            "values": [
+                {
+                    "id": "yes",
+                    "name": "Mejores vendedores",
+                    "results": 59
+                }
+            ]
+        },
+        {
+            "id": "since",
+            "name": "Filtro por fecha de comienzo",
+            "type": "text",
+            "values": [
+                {
+                    "id": "today",
+                    "name": "Publicados hoy",
+                    "results": 4
+                }
+            ]
+        },
+        {
+            "id": "has_video",
+            "name": "Filtro por publicaciones con video",
+            "type": "boolean",
+            "values": [
+                {
+                    "id": "yes",
+                    "name": "Publicaciones con video",
+                    "results": 8
+                }
+            ]
+        },
+        {
+            "id": "has_pictures",
+            "name": "Filtro por publicaciones con imágenes",
+            "type": "boolean",
+            "values": [
+                {
+                    "id": "yes",
+                    "name": "Con fotos",
+                    "results": 118
+                }
+            ]
+        },
+        {
+            "id": "shipping_cost",
+            "name": "Costo de envío",
+            "type": "text",
+            "values": [
+                {
+                    "id": "free",
+                    "name": "Gratis",
+                    "results": 54
+                }
+            ]
+        },
+        {
+            "id": "ITEM_CONDITION",
+            "name": "Condición",
+            "type": "STRING",
+            "values": [
+                {
+                    "id": "2230284",
+                    "name": "Nuevo",
+                    "results": 102
+                },
+                {
+                    "id": "2230581",
+                    "name": "Usado",
+                    "results": 16
+                }
+            ]
+        }
+    ]
+}
