@@ -9,11 +9,10 @@
 /* Begin PBXBuildFile section */
 		E532E2B32526B67C00FCABCE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E532E2B22526B67C00FCABCE /* AppDelegate.swift */; };
 		E532E2B52526B67C00FCABCE /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E532E2B42526B67C00FCABCE /* SceneDelegate.swift */; };
-		E532E2B72526B67C00FCABCE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E532E2B62526B67C00FCABCE /* ViewController.swift */; };
-		E532E2BA2526B67C00FCABCE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E532E2B82526B67C00FCABCE /* Main.storyboard */; };
 		E532E2BC2526B67F00FCABCE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E532E2BB2526B67F00FCABCE /* Assets.xcassets */; };
 		E532E2BF2526B67F00FCABCE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E532E2BD2526B67F00FCABCE /* LaunchScreen.storyboard */; };
 		E532E2CA2526B67F00FCABCE /* MercadoLibreTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E532E2C92526B67F00FCABCE /* MercadoLibreTests.swift */; };
+		E55A248C25300B4500E1D3B9 /* UrlImageModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = E55A248B25300B4500E1D3B9 /* UrlImageModel.swift */; };
 		E59E6F672527FD3300356A48 /* BuildConfiguration.swift in Sources */ = {isa = PBXBuildFile; fileRef = E59E6F662527FD3300356A48 /* BuildConfiguration.swift */; };
 		E59E6F6B2527FD8E00356A48 /* LoggerProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = E59E6F6A2527FD8E00356A48 /* LoggerProtocol.swift */; };
 		E59E6F6F2527FE0D00356A48 /* Logger.swift in Sources */ = {isa = PBXBuildFile; fileRef = E59E6F6E2527FE0D00356A48 /* Logger.swift */; };
@@ -39,6 +38,17 @@
 		E59E7010252A453A00356A48 /* JsonFilesEnum.swift in Sources */ = {isa = PBXBuildFile; fileRef = E59E700F252A453A00356A48 /* JsonFilesEnum.swift */; };
 		E59E7017252A478100356A48 /* NetworkingSearchTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = E59E7016252A478100356A48 /* NetworkingSearchTest.swift */; };
 		E59E701D252A8F9F00356A48 /* DecodeFail.json in Resources */ = {isa = PBXBuildFile; fileRef = E59E701C252A8F9F00356A48 /* DecodeFail.json */; };
+		E59E7026252BF36E00356A48 /* SearchScreenSwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E59E7025252BF36E00356A48 /* SearchScreenSwiftUIView.swift */; };
+		E59E702C252BF38800356A48 /* SearchScreenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E59E702B252BF38800356A48 /* SearchScreenViewController.swift */; };
+		E59E7030252BF39E00356A48 /* SearchScreenInteractor.swift in Sources */ = {isa = PBXBuildFile; fileRef = E59E702F252BF39E00356A48 /* SearchScreenInteractor.swift */; };
+		E59E7034252BF3D300356A48 /* SearchScreenPresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = E59E7033252BF3D300356A48 /* SearchScreenPresenter.swift */; };
+		E59E7038252BF3E600356A48 /* SearchScreenRouter.swift in Sources */ = {isa = PBXBuildFile; fileRef = E59E7037252BF3E600356A48 /* SearchScreenRouter.swift */; };
+		E59E703C252BF3F800356A48 /* SearchScreenConfigurator.swift in Sources */ = {isa = PBXBuildFile; fileRef = E59E703B252BF3F800356A48 /* SearchScreenConfigurator.swift */; };
+		E5A25A1B253123F800EE0A0E /* SearchScreenPresenterTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5A25A1A253123F800EE0A0E /* SearchScreenPresenterTest.swift */; };
+		E5A25A212531240D00EE0A0E /* SearchScreenInteractorTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5A25A202531240D00EE0A0E /* SearchScreenInteractorTest.swift */; };
+		E5A25A2625312EEE00EE0A0E /* MockNetworkingSearch.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5A25A2525312EEE00EE0A0E /* MockNetworkingSearch.swift */; };
+		E5F7A404252D684C0084225D /* SearchModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5F7A403252D684C0084225D /* SearchModel.swift */; };
+		E5F7A40B252ED9320084225D /* CLImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5F7A40A252ED9320084225D /* CLImage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,14 +65,13 @@
 		E532E2AF2526B67C00FCABCE /* MercadoLibre.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MercadoLibre.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E532E2B22526B67C00FCABCE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E532E2B42526B67C00FCABCE /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		E532E2B62526B67C00FCABCE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		E532E2B92526B67C00FCABCE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		E532E2BB2526B67F00FCABCE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E532E2BE2526B67F00FCABCE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E532E2C02526B67F00FCABCE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E532E2C52526B67F00FCABCE /* MercadoLibreTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MercadoLibreTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E532E2C92526B67F00FCABCE /* MercadoLibreTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MercadoLibreTests.swift; sourceTree = "<group>"; };
 		E532E2CB2526B67F00FCABCE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E55A248B25300B4500E1D3B9 /* UrlImageModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UrlImageModel.swift; sourceTree = "<group>"; };
 		E59E6F5B2527FC6000356A48 /* Dev.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = Dev.xcconfig; sourceTree = "<group>"; };
 		E59E6F5C2527FC6E00356A48 /* QA.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = QA.xcconfig; sourceTree = "<group>"; };
 		E59E6F5D2527FC7B00356A48 /* Stg.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = Stg.xcconfig; sourceTree = "<group>"; };
@@ -91,6 +100,17 @@
 		E59E700F252A453A00356A48 /* JsonFilesEnum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JsonFilesEnum.swift; sourceTree = "<group>"; };
 		E59E7016252A478100356A48 /* NetworkingSearchTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkingSearchTest.swift; sourceTree = "<group>"; };
 		E59E701C252A8F9F00356A48 /* DecodeFail.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = DecodeFail.json; sourceTree = "<group>"; };
+		E59E7025252BF36E00356A48 /* SearchScreenSwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchScreenSwiftUIView.swift; sourceTree = "<group>"; };
+		E59E702B252BF38800356A48 /* SearchScreenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchScreenViewController.swift; sourceTree = "<group>"; };
+		E59E702F252BF39E00356A48 /* SearchScreenInteractor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchScreenInteractor.swift; sourceTree = "<group>"; };
+		E59E7033252BF3D300356A48 /* SearchScreenPresenter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchScreenPresenter.swift; sourceTree = "<group>"; };
+		E59E7037252BF3E600356A48 /* SearchScreenRouter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchScreenRouter.swift; sourceTree = "<group>"; };
+		E59E703B252BF3F800356A48 /* SearchScreenConfigurator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchScreenConfigurator.swift; sourceTree = "<group>"; };
+		E5A25A1A253123F800EE0A0E /* SearchScreenPresenterTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchScreenPresenterTest.swift; sourceTree = "<group>"; };
+		E5A25A202531240D00EE0A0E /* SearchScreenInteractorTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchScreenInteractorTest.swift; sourceTree = "<group>"; };
+		E5A25A2525312EEE00EE0A0E /* MockNetworkingSearch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MockNetworkingSearch.swift; sourceTree = "<group>"; };
+		E5F7A403252D684C0084225D /* SearchModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchModel.swift; sourceTree = "<group>"; };
+		E5F7A40A252ED9320084225D /* CLImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CLImage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -139,6 +159,7 @@
 				E59E6FC2252803B900356A48 /* Initializate */,
 				E532E2EC2526CB9100FCABCE /* Logger */,
 				E59E6F762527FEE900356A48 /* Networking */,
+				E5F7A409252ED91E0084225D /* Utils */,
 			);
 			path = MercadoLibre;
 			sourceTree = "<group>";
@@ -146,6 +167,7 @@
 		E532E2C82526B67F00FCABCE /* MercadoLibreTests */ = {
 			isa = PBXGroup;
 			children = (
+				E5A25A18253123C800EE0A0E /* Features */,
 				E59E6FB3252800C700356A48 /* Networking */,
 				E532E2C92526B67F00FCABCE /* MercadoLibreTests.swift */,
 				E532E2CB2526B67F00FCABCE /* Info.plist */,
@@ -161,6 +183,15 @@
 				E59E6F722527FE2F00356A48 /* NetworkingLogger.swift */,
 			);
 			path = Logger;
+			sourceTree = "<group>";
+		};
+		E55A248A25300B3200E1D3B9 /* CLImage */ = {
+			isa = PBXGroup;
+			children = (
+				E5F7A40A252ED9320084225D /* CLImage.swift */,
+				E55A248B25300B4500E1D3B9 /* UrlImageModel.swift */,
+			);
+			path = CLImage;
 			sourceTree = "<group>";
 		};
 		E59E6F532527F66A00356A48 /* EnvironmentConfig */ = {
@@ -215,6 +246,7 @@
 		E59E6FB3252800C700356A48 /* Networking */ = {
 			isa = PBXGroup;
 			children = (
+				E5A25A2425312EDC00EE0A0E /* Mock */,
 				E59E7015252A475800356A48 /* Resources */,
 				E59E6FC12528035900356A48 /* JsonFiles */,
 				E59E6FB4252800DB00356A48 /* Service */,
@@ -261,8 +293,7 @@
 		E59E6FC4252803ED00356A48 /* Features */ = {
 			isa = PBXGroup;
 			children = (
-				E532E2B62526B67C00FCABCE /* ViewController.swift */,
-				E532E2B82526B67C00FCABCE /* Main.storyboard */,
+				E59E7022252AB7F900356A48 /* SearchScreen */,
 			);
 			path = Features;
 			sourceTree = "<group>";
@@ -330,6 +361,53 @@
 				E59E7016252A478100356A48 /* NetworkingSearchTest.swift */,
 			);
 			path = Resources;
+			sourceTree = "<group>";
+		};
+		E59E7022252AB7F900356A48 /* SearchScreen */ = {
+			isa = PBXGroup;
+			children = (
+				E59E703B252BF3F800356A48 /* SearchScreenConfigurator.swift */,
+				E59E702F252BF39E00356A48 /* SearchScreenInteractor.swift */,
+				E5F7A403252D684C0084225D /* SearchModel.swift */,
+				E59E7033252BF3D300356A48 /* SearchScreenPresenter.swift */,
+				E59E7037252BF3E600356A48 /* SearchScreenRouter.swift */,
+				E59E7025252BF36E00356A48 /* SearchScreenSwiftUIView.swift */,
+				E59E702B252BF38800356A48 /* SearchScreenViewController.swift */,
+			);
+			path = SearchScreen;
+			sourceTree = "<group>";
+		};
+		E5A25A18253123C800EE0A0E /* Features */ = {
+			isa = PBXGroup;
+			children = (
+				E5A25A19253123D300EE0A0E /* SearchScreen */,
+			);
+			path = Features;
+			sourceTree = "<group>";
+		};
+		E5A25A19253123D300EE0A0E /* SearchScreen */ = {
+			isa = PBXGroup;
+			children = (
+				E5A25A1A253123F800EE0A0E /* SearchScreenPresenterTest.swift */,
+				E5A25A202531240D00EE0A0E /* SearchScreenInteractorTest.swift */,
+			);
+			path = SearchScreen;
+			sourceTree = "<group>";
+		};
+		E5A25A2425312EDC00EE0A0E /* Mock */ = {
+			isa = PBXGroup;
+			children = (
+				E5A25A2525312EEE00EE0A0E /* MockNetworkingSearch.swift */,
+			);
+			path = Mock;
+			sourceTree = "<group>";
+		};
+		E5F7A409252ED91E0084225D /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				E55A248A25300B3200E1D3B9 /* CLImage */,
+			);
+			path = Utils;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -414,7 +492,6 @@
 			files = (
 				E532E2BF2526B67F00FCABCE /* LaunchScreen.storyboard in Resources */,
 				E532E2BC2526B67F00FCABCE /* Assets.xcassets in Resources */,
-				E532E2BA2526B67C00FCABCE /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -437,10 +514,10 @@
 				E59E6FF6252A36F300356A48 /* NetworkingSearchAPI.swift in Sources */,
 				E59E7006252A37B700356A48 /* NetworkingSearchAdapter.swift in Sources */,
 				E59E6F792527FF1300356A48 /* EndPointType.swift in Sources */,
+				E5F7A404252D684C0084225D /* SearchModel.swift in Sources */,
 				E59E6FD02529540F00356A48 /* ResultElement.swift in Sources */,
 				E59E7002252A37AA00356A48 /* NetworkingSearchService.swift in Sources */,
 				E59E6FE825295BAD00356A48 /* AvailableFilterElement.swift in Sources */,
-				E532E2B72526B67C00FCABCE /* ViewController.swift in Sources */,
 				E59E6F6F2527FE0D00356A48 /* Logger.swift in Sources */,
 				E59E6FD4252954AC00356A48 /* SearchElement.swift in Sources */,
 				E59E6FCA252816F700356A48 /* CategoryElement.swift in Sources */,
@@ -449,13 +526,21 @@
 				E59E6F812527FF5E00356A48 /* NetworkingRouter.swift in Sources */,
 				E59E6F862527FFED00356A48 /* ErrorNetworking.swift in Sources */,
 				E532E2B32526B67C00FCABCE /* AppDelegate.swift in Sources */,
+				E59E702C252BF38800356A48 /* SearchScreenViewController.swift in Sources */,
+				E59E7030252BF39E00356A48 /* SearchScreenInteractor.swift in Sources */,
 				E59E6F7D2527FF3D00356A48 /* HTTPMethod.swift in Sources */,
 				E59E6FE4252959FD00356A48 /* AddressElement.swift in Sources */,
+				E59E703C252BF3F800356A48 /* SearchScreenConfigurator.swift in Sources */,
 				E59E6F8D2528002500356A48 /* DefaultNetworkManager.swift in Sources */,
+				E59E7034252BF3D300356A48 /* SearchScreenPresenter.swift in Sources */,
 				E59E6FEC25295BDF00356A48 /* AvailableFilterValueElement.swift in Sources */,
 				E532E2B52526B67C00FCABCE /* SceneDelegate.swift in Sources */,
 				E59E6F732527FE2F00356A48 /* NetworkingLogger.swift in Sources */,
+				E59E7038252BF3E600356A48 /* SearchScreenRouter.swift in Sources */,
+				E5F7A40B252ED9320084225D /* CLImage.swift in Sources */,
+				E55A248C25300B4500E1D3B9 /* UrlImageModel.swift in Sources */,
 				E59E6FD82529556C00356A48 /* PagingElement.swift in Sources */,
+				E59E7026252BF36E00356A48 /* SearchScreenSwiftUIView.swift in Sources */,
 				E59E6F672527FD3300356A48 /* BuildConfiguration.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -464,9 +549,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E5A25A2625312EEE00EE0A0E /* MockNetworkingSearch.swift in Sources */,
 				E59E7010252A453A00356A48 /* JsonFilesEnum.swift in Sources */,
 				E59E6FBE2528014000356A48 /* MockNetworkingRouter.swift in Sources */,
+				E5A25A212531240D00EE0A0E /* SearchScreenInteractorTest.swift in Sources */,
 				E532E2CA2526B67F00FCABCE /* MercadoLibreTests.swift in Sources */,
+				E5A25A1B253123F800EE0A0E /* SearchScreenPresenterTest.swift in Sources */,
 				E59E7017252A478100356A48 /* NetworkingSearchTest.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -482,14 +570,6 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		E532E2B82526B67C00FCABCE /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				E532E2B92526B67C00FCABCE /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		E532E2BD2526B67F00FCABCE /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (

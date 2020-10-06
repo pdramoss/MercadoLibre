@@ -18,6 +18,6 @@ struct ResultElement: Codable {
     var permalink: String
     var thumbnail: String
     var acceptsMercadopago: Bool
-    var address: AddressElement
+    var address: AddressElement?
     var categoryId: String
 }
