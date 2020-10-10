@@ -47,6 +47,14 @@
 		E5A25A1B253123F800EE0A0E /* SearchScreenPresenterTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5A25A1A253123F800EE0A0E /* SearchScreenPresenterTest.swift */; };
 		E5A25A212531240D00EE0A0E /* SearchScreenInteractorTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5A25A202531240D00EE0A0E /* SearchScreenInteractorTest.swift */; };
 		E5A25A2625312EEE00EE0A0E /* MockNetworkingSearch.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5A25A2525312EEE00EE0A0E /* MockNetworkingSearch.swift */; };
+		E5C201162532114F006461A6 /* DetailScreenPresenterTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5C201152532114F006461A6 /* DetailScreenPresenterTest.swift */; };
+		E5C2011C25321160006461A6 /* DetailScreenInteractorTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5C2011B25321160006461A6 /* DetailScreenInteractorTest.swift */; };
+		E5F3148525314E22004493CC /* DetailScreenConfigurator.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5F3148425314E22004493CC /* DetailScreenConfigurator.swift */; };
+		E5F3148B25314E3A004493CC /* DetailScreenInteractor.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5F3148A25314E3A004493CC /* DetailScreenInteractor.swift */; };
+		E5F3148F25314E49004493CC /* DetailScreenPresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5F3148E25314E49004493CC /* DetailScreenPresenter.swift */; };
+		E5F3149325314E60004493CC /* DetailScreenRouter.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5F3149225314E60004493CC /* DetailScreenRouter.swift */; };
+		E5F3149725314E7A004493CC /* DetailScreenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5F3149625314E7A004493CC /* DetailScreenViewController.swift */; };
+		E5F3149B25314EAA004493CC /* DetailScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E5F3149A25314EAA004493CC /* DetailScreen.storyboard */; };
 		E5F7A404252D684C0084225D /* SearchModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5F7A403252D684C0084225D /* SearchModel.swift */; };
 		E5F7A40B252ED9320084225D /* CLImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5F7A40A252ED9320084225D /* CLImage.swift */; };
 /* End PBXBuildFile section */
@@ -109,6 +117,14 @@
 		E5A25A1A253123F800EE0A0E /* SearchScreenPresenterTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchScreenPresenterTest.swift; sourceTree = "<group>"; };
 		E5A25A202531240D00EE0A0E /* SearchScreenInteractorTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchScreenInteractorTest.swift; sourceTree = "<group>"; };
 		E5A25A2525312EEE00EE0A0E /* MockNetworkingSearch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MockNetworkingSearch.swift; sourceTree = "<group>"; };
+		E5C201152532114F006461A6 /* DetailScreenPresenterTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailScreenPresenterTest.swift; sourceTree = "<group>"; };
+		E5C2011B25321160006461A6 /* DetailScreenInteractorTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailScreenInteractorTest.swift; sourceTree = "<group>"; };
+		E5F3148425314E22004493CC /* DetailScreenConfigurator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailScreenConfigurator.swift; sourceTree = "<group>"; };
+		E5F3148A25314E3A004493CC /* DetailScreenInteractor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailScreenInteractor.swift; sourceTree = "<group>"; };
+		E5F3148E25314E49004493CC /* DetailScreenPresenter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailScreenPresenter.swift; sourceTree = "<group>"; };
+		E5F3149225314E60004493CC /* DetailScreenRouter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailScreenRouter.swift; sourceTree = "<group>"; };
+		E5F3149625314E7A004493CC /* DetailScreenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailScreenViewController.swift; sourceTree = "<group>"; };
+		E5F3149A25314EAA004493CC /* DetailScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = DetailScreen.storyboard; sourceTree = "<group>"; };
 		E5F7A403252D684C0084225D /* SearchModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchModel.swift; sourceTree = "<group>"; };
 		E5F7A40A252ED9320084225D /* CLImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CLImage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -293,6 +309,8 @@
 		E59E6FC4252803ED00356A48 /* Features */ = {
 			isa = PBXGroup;
 			children = (
+				E5F3148325314DF2004493CC /* Models */,
+				E5F3148225314DBF004493CC /* DetailScreen */,
 				E59E7022252AB7F900356A48 /* SearchScreen */,
 			);
 			path = Features;
@@ -368,7 +386,6 @@
 			children = (
 				E59E703B252BF3F800356A48 /* SearchScreenConfigurator.swift */,
 				E59E702F252BF39E00356A48 /* SearchScreenInteractor.swift */,
-				E5F7A403252D684C0084225D /* SearchModel.swift */,
 				E59E7033252BF3D300356A48 /* SearchScreenPresenter.swift */,
 				E59E7037252BF3E600356A48 /* SearchScreenRouter.swift */,
 				E59E7025252BF36E00356A48 /* SearchScreenSwiftUIView.swift */,
@@ -380,6 +397,7 @@
 		E5A25A18253123C800EE0A0E /* Features */ = {
 			isa = PBXGroup;
 			children = (
+				E5C201142532112F006461A6 /* DetailScreen */,
 				E5A25A19253123D300EE0A0E /* SearchScreen */,
 			);
 			path = Features;
@@ -388,8 +406,8 @@
 		E5A25A19253123D300EE0A0E /* SearchScreen */ = {
 			isa = PBXGroup;
 			children = (
-				E5A25A1A253123F800EE0A0E /* SearchScreenPresenterTest.swift */,
 				E5A25A202531240D00EE0A0E /* SearchScreenInteractorTest.swift */,
+				E5A25A1A253123F800EE0A0E /* SearchScreenPresenterTest.swift */,
 			);
 			path = SearchScreen;
 			sourceTree = "<group>";
@@ -400,6 +418,36 @@
 				E5A25A2525312EEE00EE0A0E /* MockNetworkingSearch.swift */,
 			);
 			path = Mock;
+			sourceTree = "<group>";
+		};
+		E5C201142532112F006461A6 /* DetailScreen */ = {
+			isa = PBXGroup;
+			children = (
+				E5C2011B25321160006461A6 /* DetailScreenInteractorTest.swift */,
+				E5C201152532114F006461A6 /* DetailScreenPresenterTest.swift */,
+			);
+			path = DetailScreen;
+			sourceTree = "<group>";
+		};
+		E5F3148225314DBF004493CC /* DetailScreen */ = {
+			isa = PBXGroup;
+			children = (
+				E5F3149A25314EAA004493CC /* DetailScreen.storyboard */,
+				E5F3148425314E22004493CC /* DetailScreenConfigurator.swift */,
+				E5F3148A25314E3A004493CC /* DetailScreenInteractor.swift */,
+				E5F3148E25314E49004493CC /* DetailScreenPresenter.swift */,
+				E5F3149225314E60004493CC /* DetailScreenRouter.swift */,
+				E5F3149625314E7A004493CC /* DetailScreenViewController.swift */,
+			);
+			path = DetailScreen;
+			sourceTree = "<group>";
+		};
+		E5F3148325314DF2004493CC /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				E5F7A403252D684C0084225D /* SearchModel.swift */,
+			);
+			path = Models;
 			sourceTree = "<group>";
 		};
 		E5F7A409252ED91E0084225D /* Utils */ = {
@@ -491,6 +539,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E532E2BF2526B67F00FCABCE /* LaunchScreen.storyboard in Resources */,
+				E5F3149B25314EAA004493CC /* DetailScreen.storyboard in Resources */,
 				E532E2BC2526B67F00FCABCE /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -517,6 +566,7 @@
 				E5F7A404252D684C0084225D /* SearchModel.swift in Sources */,
 				E59E6FD02529540F00356A48 /* ResultElement.swift in Sources */,
 				E59E7002252A37AA00356A48 /* NetworkingSearchService.swift in Sources */,
+				E5F3149725314E7A004493CC /* DetailScreenViewController.swift in Sources */,
 				E59E6FE825295BAD00356A48 /* AvailableFilterElement.swift in Sources */,
 				E59E6F6F2527FE0D00356A48 /* Logger.swift in Sources */,
 				E59E6FD4252954AC00356A48 /* SearchElement.swift in Sources */,
@@ -526,6 +576,7 @@
 				E59E6F812527FF5E00356A48 /* NetworkingRouter.swift in Sources */,
 				E59E6F862527FFED00356A48 /* ErrorNetworking.swift in Sources */,
 				E532E2B32526B67C00FCABCE /* AppDelegate.swift in Sources */,
+				E5F3148F25314E49004493CC /* DetailScreenPresenter.swift in Sources */,
 				E59E702C252BF38800356A48 /* SearchScreenViewController.swift in Sources */,
 				E59E7030252BF39E00356A48 /* SearchScreenInteractor.swift in Sources */,
 				E59E6F7D2527FF3D00356A48 /* HTTPMethod.swift in Sources */,
@@ -535,6 +586,7 @@
 				E59E7034252BF3D300356A48 /* SearchScreenPresenter.swift in Sources */,
 				E59E6FEC25295BDF00356A48 /* AvailableFilterValueElement.swift in Sources */,
 				E532E2B52526B67C00FCABCE /* SceneDelegate.swift in Sources */,
+				E5F3149325314E60004493CC /* DetailScreenRouter.swift in Sources */,
 				E59E6F732527FE2F00356A48 /* NetworkingLogger.swift in Sources */,
 				E59E7038252BF3E600356A48 /* SearchScreenRouter.swift in Sources */,
 				E5F7A40B252ED9320084225D /* CLImage.swift in Sources */,
@@ -542,6 +594,8 @@
 				E59E6FD82529556C00356A48 /* PagingElement.swift in Sources */,
 				E59E7026252BF36E00356A48 /* SearchScreenSwiftUIView.swift in Sources */,
 				E59E6F672527FD3300356A48 /* BuildConfiguration.swift in Sources */,
+				E5F3148525314E22004493CC /* DetailScreenConfigurator.swift in Sources */,
+				E5F3148B25314E3A004493CC /* DetailScreenInteractor.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -554,7 +608,9 @@
 				E59E6FBE2528014000356A48 /* MockNetworkingRouter.swift in Sources */,
 				E5A25A212531240D00EE0A0E /* SearchScreenInteractorTest.swift in Sources */,
 				E532E2CA2526B67F00FCABCE /* MercadoLibreTests.swift in Sources */,
+				E5C201162532114F006461A6 /* DetailScreenPresenterTest.swift in Sources */,
 				E5A25A1B253123F800EE0A0E /* SearchScreenPresenterTest.swift in Sources */,
+				E5C2011C25321160006461A6 /* DetailScreenInteractorTest.swift in Sources */,
 				E59E7017252A478100356A48 /* NetworkingSearchTest.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

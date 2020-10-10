@@ -30,7 +30,8 @@ class SearchScreenViewController: UIViewController {
         }
     }
     
-    private var cancellable: AnyCancellable!
+    private var cancellableQuery: AnyCancellable!
+    private var cancellableDetail: AnyCancellable!
     
     override func loadView() {
         super.loadView()
@@ -48,8 +49,12 @@ class SearchScreenViewController: UIViewController {
         childView.view.topAnchor.constraint(equalTo: view.topAnchor).isActive = true
         childView.view.bottomAnchor.constraint(equalTo: view.bottomAnchor).isActive = true
         
-        self.cancellable = delegate?.$query.sink { query in
+        self.cancellableQuery = delegate?.$query.sink { query in
             self.searchQuery = query
+        }
+        
+        self.cancellableDetail = delegate?.$model.sink { model in
+            model.map { self.router?.routeToDetail($0) }
         }
     }
     

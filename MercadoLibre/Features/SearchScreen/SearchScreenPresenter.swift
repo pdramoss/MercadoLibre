@@ -22,7 +22,8 @@ class SearchScreenPresenterImplementation: SearchScreenPresenter {
             id: $0.id,
             title: $0.title,
             thumbnail: $0.thumbnail,
-            price: $0.price)
+            price: $0.price,
+            currencyId: $0.currencyId)
         }
         viewController?.updateList(list)
     }

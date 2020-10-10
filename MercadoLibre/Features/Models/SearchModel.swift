@@ -13,4 +13,5 @@ struct SearchModel: Identifiable, Hashable {
     var title: String
     var thumbnail: String
     var price: Int
+    var currencyId: String
 }

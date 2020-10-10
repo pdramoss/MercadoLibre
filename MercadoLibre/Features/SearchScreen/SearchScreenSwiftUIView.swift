@@ -11,6 +11,7 @@ class SearchScreenViewDelegate: ObservableObject {
     @Published var query: String = ""
     @Published var list: [SearchModel] = []
     @Published var error: Error?
+    @Published var model: SearchModel?
 }
 
 struct SearchScreenSwiftUIView: View {
@@ -33,6 +34,9 @@ struct SearchScreenSwiftUIView: View {
                     ], alignment: .leading, spacing: 16, content: {
                         ForEach (delegate.list, id: \.self) { item in
                             SearchScreenCell(item: item)
+                                .onTapGesture {
+                                    delegate.model = item
+                                }
                         }
                     }).padding(.horizontal, 12)
                 }
