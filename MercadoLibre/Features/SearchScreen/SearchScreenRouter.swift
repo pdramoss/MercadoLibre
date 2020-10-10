@@ -16,6 +16,9 @@ protocol SearchScreenRouter: class {
 class SearchScreenRouterImplementation: SearchScreenRouter {
     weak var navigationController: UINavigationController?
     
+    
+    /// Funcion encargada de mostrar la pantalla con el detalle del producto
+    /// - Parameter model: SearchModel componente encargado de tener la informcion del producto.
     func routeToDetail(_ model: SearchModel) {
         let storyboard = UIStoryboard(name: "DetailScreen", bundle: Bundle.main)
         let viewController = storyboard.instantiateViewController(identifier: "DetailScreenViewController") as? DetailScreenViewController

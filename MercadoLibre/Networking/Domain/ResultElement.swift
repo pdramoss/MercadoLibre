@@ -7,6 +7,9 @@
 
 import Foundation
 
+/**
+    This is your ResultElement documentation.
+*/
 struct ResultElement: Codable {
     var id: String
     var title: String

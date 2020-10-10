@@ -7,6 +7,10 @@
 
 import Foundation
 
+
+/**
+    This is your SearchElement documentation.
+*/
 struct SearchElement: Codable {
     var siteId: String
     var query: String

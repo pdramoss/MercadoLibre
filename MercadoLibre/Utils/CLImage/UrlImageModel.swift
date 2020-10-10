@@ -20,11 +20,9 @@ class UrlImageModel: ObservableObject {
     
     private func loadImage() {
         if loadImageFromCache() {
-            Logger.info("Cache hit")
             return
         }
         
-        Logger.info("Cache miss, loading from url")
         loadImageFromUrl()
     }
     
@@ -45,12 +43,7 @@ class UrlImageModel: ObservableObject {
     
     
     private func getImageFromResponse(data: Data?, response: URLResponse?, error: Error?) {
-        guard error == nil else {
-            Logger.info("Error: \(String(describing: error))")
-            return
-        }
-        guard let data = data else {
-            Logger.info("No data found")
+        guard error == nil, let data = data else {
             return
         }
         

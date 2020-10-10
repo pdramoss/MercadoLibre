@@ -8,6 +8,9 @@
 import Foundation
 import SwiftUI
 
+/**
+    This is your Search Model documentation.
+*/
 struct SearchModel: Identifiable, Hashable {
     var id: String
     var title: String

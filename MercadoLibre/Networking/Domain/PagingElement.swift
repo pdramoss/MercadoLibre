@@ -7,6 +7,9 @@
 
 import Foundation
 
+/**
+    This is your PagingElement documentation.
+*/
 struct PagingElement: Codable {
     var total: Int
     var primaryResults: Int

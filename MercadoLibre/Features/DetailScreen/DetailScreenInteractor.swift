@@ -18,6 +18,7 @@ class DetailScreenInteractorImplementation: DetailScreenInteractor {
     var model: SearchModel?
     var presenter: DetailScreenPresenter?
     
+    /// Esta función se encarga de validar cuando el modelo existe de informarle al presenter para actualizar la pantalla
     func viewDidLoad() {
         model.map { presenter?.interactor(didRetrieveModel: $0) }
     }

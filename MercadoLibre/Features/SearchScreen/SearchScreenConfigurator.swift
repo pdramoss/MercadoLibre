@@ -8,6 +8,9 @@
 import Foundation
 
 class SearchScreenConfigurator {
+    
+    /// Clase encargada de la creacion y configuracion de los componentes del modulo SearchScreen
+    /// - Parameter viewController: SearchScreenView clase encargada de la vista
     static func configureModule(_ viewController: SearchScreenViewController) {
         let delegate = SearchScreenViewDelegate()
         let view = SearchScreenSwiftUIView(delegate: delegate)

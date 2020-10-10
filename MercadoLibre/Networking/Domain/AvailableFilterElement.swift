@@ -7,6 +7,9 @@
 
 import Foundation
 
+/**
+    This is your AvailableFilterElement documentation.
+*/
 struct AvailableFilterElement: Codable {
     var id: String
     var name: String

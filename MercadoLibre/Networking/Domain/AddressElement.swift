@@ -7,6 +7,9 @@
 
 import Foundation
 
+/**
+    This is your AddressElement documentation.
+*/
 struct AddressElement: Codable {
     var stateId: String
     var stateName: String

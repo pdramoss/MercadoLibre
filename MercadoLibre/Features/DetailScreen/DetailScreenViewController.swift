@@ -29,6 +29,11 @@ class DetailScreenViewController: UIViewController {
         self.interactor?.viewDidLoad()
     }
     
+    
+    /// La funcion encargada de configurar y mostrar el valor del precio del producto.
+    /// - Parameters:
+    ///   - price: Precio del producto
+    ///   - currencyCode: Moneda del producto
     private func setupCurrencyLabel(_ price: Int, currencyCode: String) {
         let formatter = NumberFormatter()
         formatter.locale = Locale(identifier: "es_CO")
@@ -41,6 +46,9 @@ class DetailScreenViewController: UIViewController {
 }
 
 extension DetailScreenViewController: DetailScreenPresenterOutput {
+    
+    /// Funcion encargada de actualizar la vista con la informacion del producto
+    /// - Parameter model: SearchModel componente encargado de tener la informcion del producto.
     func setupViewController(_ model: SearchModel) {
         let urlImage = UrlImageModel(urlString: model.thumbnail)
         imageView.image = urlImage.image
